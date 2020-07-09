@@ -2,6 +2,22 @@
   <img width="100%" src="https://khalidabuhakmeh.com/assets/images/posts/logos/vhs-logo.png" alt="abuhakmeh logo" />
 </a>
 
+<hr/>
+
+<div style="width:"100%; text-align:center">
+    <a href="https://khalidabuhakmeh.com" style="display: inline-block; margin: auto; width: 50px;">
+      <img src="https://user-images.githubusercontent.com/228256/87049842-71345b80-c1cb-11ea-8a67-b002bcfde0a8.png" alt="abuhakmeh blog" width="32%" />
+    </a>
+    <a href="https://twitter.com/buhakmeh" style="display: inline-block; margin: auto; width: 250px;">
+      <img src="https://user-images.githubusercontent.com/228256/87049848-72658880-c1cb-11ea-9adb-0fc1eabe9052.png" alt="twitter @buhakmeh" width="32%" />
+    </a>
+    <a href="https://blog.jetbrains.com/dotnet" style="display: inline-block; margin: auto; width: 250px;">
+      <img src="https://user-images.githubusercontent.com/228256/87049854-742f4c00-c1cb-11ea-891f-daea7cf57573.png" alt="jetbrains .NET Blog" width="32%" />
+    </a>    
+</div>
+
+<hr/>
+
 ### Hi there 👋
 
 My name is Khalid Abuhakmeh ([@buhakmeh][twitter] on Twitter). These days I'm a developer advocate at [JetBrains][jetbrains] primarily focusing on [.NET][dotnet] technologies using tools like [Rider][rider] and [ReSharper][resharper]. I also create content for JetBrains at the [official blog][jb_blog].
