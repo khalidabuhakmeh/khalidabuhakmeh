@@ -69,6 +69,10 @@ If you would like to reach me, the best way is on Twitter via [@buhakmeh][twitte
 [dotnet]: https://dot.net
 
 
+<p align="center">
+  <img alt="Visitor count" src="https://profile-counter.glitch.me/khalidabuhakmeh/count.svg" style="display: inline-block; margin: auto;" />  
+</p>
+
 <!--
 **khalidabuhakmeh/khalidabuhakmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
