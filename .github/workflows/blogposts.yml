@@ -1,0 +1,17 @@
+name: Update readme with blog posts
+on:
+  workflow_dispatch: 
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://khalidabuhakmeh.com/feed.xml
+          readme-section: feed
+          max: 10 # max number of items (default 5)
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
