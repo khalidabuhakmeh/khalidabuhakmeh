@@ -31,13 +31,18 @@ Some of my favorite posts include:
 - [Writing .NET Database Integration Tests](https://khalidabuhakmeh.com/dotnet-database-integration-tests)
 - [SQL Polling Listener for Azure SQL and Other SQL Databases](https://khalidabuhakmeh.com/sql-polling-listener-for-azure-sql-and-other-sql-databases)
 
-### Office Hours
+### 📙 Blog Posts
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
+
+### Office Hours ⏱
 
 ![office hours](https://res.cloudinary.com/abuhakmeh/image/fetch/c_limit,f_auto,q_auto,w_1200/https://khalidabuhakmeh.com/assets/images/posts/misc/office_hours.jpg)
 
 As a developer advocate, I'm here to help by offering [Office Hours](https://khalidabuhakmeh.com/office-hours/). These are anywhere from 30-60 minute sessions where we can discuss tech, problem solving, or general career advice. I've held every position from junior developer to director of software development.
 
-### OSS
+### 🗃 OSS
 
 I also [do OSS](https://www.nuget.org/profiles/khalidabuhakmeh) when the time allows. Some of my most popular NuGet packages include:
 
@@ -48,7 +53,7 @@ That's over **1.2 Million downloads!**
 
 I have also contributed logos to multiple .NET ecosystem projects like [Marten](https://github.com/JasperFx/marten), [DDay.iCal](https://github.com/rianjs/ical.net), and [Buildalyzer](https://github.com/daveaglick/Buildalyzer).
 
-### Personal
+### Personal 😜
 
 Fun Facts: 
 
