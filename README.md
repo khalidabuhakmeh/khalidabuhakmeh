@@ -26,10 +26,10 @@ I'm also proud of my personal blog at [khalidabuhakmeh.com][blog], where I write
 
 Some of my favorite posts include:
 
-- [Conditionally Apply LINQ Clauses](https://khalidabuhakmeh.com/conditionally-apply-linq-clauses)
-- [Use Neo4J to Find The Shortest Path](https://khalidabuhakmeh.com/use-neo4j-to-find-the-shortest-path)
-- [Writing .NET Database Integration Tests](https://khalidabuhakmeh.com/dotnet-database-integration-tests)
-- [SQL Polling Listener for Azure SQL and Other SQL Databases](https://khalidabuhakmeh.com/sql-polling-listener-for-azure-sql-and-other-sql-databases)
+- **[Conditionally Apply LINQ Clauses](https://khalidabuhakmeh.com/conditionally-apply-linq-clauses)**
+- **[Use Neo4J to Find The Shortest Path](https://khalidabuhakmeh.com/use-neo4j-to-find-the-shortest-path)**
+- **[Writing .NET Database Integration Tests](https://khalidabuhakmeh.com/dotnet-database-integration-tests)**
+- **[SQL Polling Listener for Azure SQL and Other SQL Databases](https://khalidabuhakmeh.com/sql-polling-listener-for-azure-sql-and-other-sql-databases)**
 
 ### 📙 Blog Posts
 
