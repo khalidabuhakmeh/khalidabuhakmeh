@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Use Range and Index In C# 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-range-and-index-in-csharp-8)**
 - **[Dispose Resources Asynchronously With IAsyncDisposable](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;iasyncdisposable-dispose-resources-asynchronously)**
 - **[My Favorite JetBrains Rider Themes](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;my-favorite-jetbrains-rider-themes)**
 - **[Use Select Dropdown In ASP.NET Razor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-select-dropdown-in-aspdotnet-razor)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Handle HTTP Status Codes With Razor Pages](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;handle-http-status-codes-with-razor-pages)**
 - **[More HTTP Methods In ASP.NET Core HTML Forms](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;more-http-methods-aspnet-core-html-forms)**
 - **[Sentiment Analysis With C#, ML.NET, and Oakton Commands](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;sentiment-analysis-with-csharp-mldotnet-and-oakton-commands)**
-- **[Write Xamarin.Mac Apps With JetBrains Rider](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;write-xamarin-mac-apps-with-jetbrains-rider)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
