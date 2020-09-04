@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Remove Rows From Razor HTML Tables](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;remove-rows-from-razor-html-tables)**
 - **[Use TempDataAttribute For Clean Code](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-tempdataattribute-for-clean-code)**
 - **[Use Range and Index In C# 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-range-and-index-in-csharp-8)**
 - **[Dispose Resources Asynchronously With IAsyncDisposable](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;iasyncdisposable-dispose-resources-asynchronously)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Secrets of a .NET Professional](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;secrets-of-a-dotnet-professional)**
 - **[Use C# Preprocessor Directives](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-preprocessor-directives)**
 - **[Handle HTTP Status Codes With Razor Pages](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;handle-http-status-codes-with-razor-pages)**
-- **[More HTTP Methods In ASP.NET Core HTML Forms](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;more-http-methods-aspnet-core-html-forms)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
