@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[The Importance Of Branding Projects](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-importance-of-branding-projects)**
 - **[Remove Rows From Razor HTML Tables](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;remove-rows-from-razor-html-tables)**
 - **[Use TempDataAttribute For Clean Code](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-tempdataattribute-for-clean-code)**
 - **[Use Range and Index In C# 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-range-and-index-in-csharp-8)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Building HTML with C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;building-html-with-csharp)**
 - **[Secrets of a .NET Professional](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;secrets-of-a-dotnet-professional)**
 - **[Use C# Preprocessor Directives](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-preprocessor-directives)**
-- **[Handle HTTP Status Codes With Razor Pages](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;handle-http-status-codes-with-razor-pages)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
