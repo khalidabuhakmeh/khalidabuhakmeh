@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Animate A Mic Drop With Xamarin.Forms](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;animate-a-mic-drop-with-xamarin-dot-forms)**
 - **[Work With Xamarin.Forms And Lottie Motion Graphics](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-xamarin-forms-and-motion-graphics)**
 - **[The Importance Of Branding Projects](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-importance-of-branding-projects)**
 - **[Remove Rows From Razor HTML Tables](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;remove-rows-from-razor-html-tables)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[My Favorite JetBrains Rider Themes](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;my-favorite-jetbrains-rider-themes)**
 - **[Use Select Dropdown In ASP.NET Razor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-select-dropdown-in-aspdotnet-razor)**
 - **[Building HTML with C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;building-html-with-csharp)**
-- **[Secrets of a .NET Professional](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;secrets-of-a-dotnet-professional)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
