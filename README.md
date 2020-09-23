@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[ASP.NET Core Localization Jump Start](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspdotnet-core-localization-jump-start)**
 - **[MVVM With Xamarin.Forms and JetBrains Rider](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;mvvm-with-xamarin-forms)**
 - **[Animate A Mic Drop With Xamarin.Forms](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;animate-a-mic-drop-with-xamarin-dot-forms)**
 - **[Work With Xamarin.Forms And Lottie Motion Graphics](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-xamarin-forms-and-motion-graphics)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Use Range and Index In C# 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-range-and-index-in-csharp-8)**
 - **[Dispose Resources Asynchronously With IAsyncDisposable](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;iasyncdisposable-dispose-resources-asynchronously)**
 - **[My Favorite JetBrains Rider Themes](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;my-favorite-jetbrains-rider-themes)**
-- **[Use Select Dropdown In ASP.NET Razor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-select-dropdown-in-aspdotnet-razor)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
