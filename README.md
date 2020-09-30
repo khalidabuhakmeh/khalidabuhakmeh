@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Serialize Interface Instances With System.Text.Json](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;serialize-interface-instances-system-text-json)**
 - **[Remember ASP.NET Request Culture Using Middleware](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;remember-asdotnet-request-culture-using-middleware)**
 - **[ASP.NET Core Localization Jump Start](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspdotnet-core-localization-jump-start)**
 - **[MVVM With Xamarin.Forms and JetBrains Rider](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;mvvm-with-xamarin-forms)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Remove Rows From Razor HTML Tables](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;remove-rows-from-razor-html-tables)**
 - **[Use TempDataAttribute For Clean Code](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-tempdataattribute-for-clean-code)**
 - **[Use Range and Index In C# 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-range-and-index-in-csharp-8)**
-- **[Dispose Resources Asynchronously With IAsyncDisposable](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;iasyncdisposable-dispose-resources-asynchronously)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
