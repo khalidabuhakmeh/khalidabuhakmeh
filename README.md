@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Calculate the Moon Phase With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;calculate-moon-phase-with-csharp)**
 - **[Read And Convert QueryCollection Values In ASP.NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;read-and-convert-querycollection-values-in-aspnet)**
 - **[Serialize Interface Instances With System.Text.Json](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;serialize-interface-instances-system-text-json)**
 - **[Remember ASP.NET Request Culture Using Middleware](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;remember-asdotnet-request-culture-using-middleware)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Work With Xamarin.Forms And Lottie Motion Graphics](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-xamarin-forms-and-motion-graphics)**
 - **[The Importance Of Branding Projects](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-importance-of-branding-projects)**
 - **[Remove Rows From Razor HTML Tables](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;remove-rows-from-razor-html-tables)**
-- **[Use TempDataAttribute For Clean Code](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-tempdataattribute-for-clean-code)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
