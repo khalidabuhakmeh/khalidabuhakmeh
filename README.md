@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Enrich HTML With ASP.NET Razor TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;enrich-html-aspnet-razor-taghelpers)**
 - **[Calculate the Moon Phase With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;calculate-moon-phase-with-csharp)**
 - **[Read And Convert QueryCollection Values In ASP.NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;read-and-convert-querycollection-values-in-aspnet)**
 - **[Serialize Interface Instances With System.Text.Json](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;serialize-interface-instances-system-text-json)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Animate A Mic Drop With Xamarin.Forms](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;animate-a-mic-drop-with-xamarin-dot-forms)**
 - **[Work With Xamarin.Forms And Lottie Motion Graphics](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-xamarin-forms-and-motion-graphics)**
 - **[The Importance Of Branding Projects](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-importance-of-branding-projects)**
-- **[Remove Rows From Razor HTML Tables](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;remove-rows-from-razor-html-tables)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
