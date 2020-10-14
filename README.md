@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Ace Switch Expressions in C# 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;switch-expressions-in-csharp-8)**
 - **[Enrich HTML With ASP.NET Razor TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;enrich-html-aspnet-razor-taghelpers)**
 - **[Calculate the Moon Phase With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;calculate-moon-phase-with-csharp)**
 - **[Read And Convert QueryCollection Values In ASP.NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;read-and-convert-querycollection-values-in-aspnet)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[MVVM With Xamarin.Forms and JetBrains Rider](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;mvvm-with-xamarin-forms)**
 - **[Animate A Mic Drop With Xamarin.Forms](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;animate-a-mic-drop-with-xamarin-dot-forms)**
 - **[Work With Xamarin.Forms And Lottie Motion Graphics](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-xamarin-forms-and-motion-graphics)**
-- **[The Importance Of Branding Projects](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-importance-of-branding-projects)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
