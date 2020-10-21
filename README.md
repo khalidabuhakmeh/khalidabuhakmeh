@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Add Headers To A Response In ASP.NET 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-headers-to-a-response-in-aspnet-5)**
 - **[Implement Kotlin&#39;s withIndex in C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;implement-kotlins-withindex-in-csharp)**
 - **[Ace Switch Expressions in C# 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;switch-expressions-in-csharp-8)**
 - **[Enrich HTML With ASP.NET Razor TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;enrich-html-aspnet-razor-taghelpers)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Remember ASP.NET Request Culture Using Middleware](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;remember-asdotnet-request-culture-using-middleware)**
 - **[ASP.NET Core Localization Jump Start](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspdotnet-core-localization-jump-start)**
 - **[MVVM With Xamarin.Forms and JetBrains Rider](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;mvvm-with-xamarin-forms)**
-- **[Animate A Mic Drop With Xamarin.Forms](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;animate-a-mic-drop-with-xamarin-dot-forms)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
