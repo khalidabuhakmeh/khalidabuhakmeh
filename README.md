@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Looking At System.IO.Path](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;looking-at-system-io-path)**
 - **[Generate QR Codes With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-qr-codes-csharp)**
 - **[FormattableStringFactory and Formats](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;formattablestringfactory-and-formats)**
 - **[Use ASP.NET With Turbolinks 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-aspnet-with-turbolinks-5)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Enrich HTML With ASP.NET Razor TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;enrich-html-aspnet-razor-taghelpers)**
 - **[Calculate the Moon Phase With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;calculate-moon-phase-with-csharp)**
 - **[Read And Convert QueryCollection Values In ASP.NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;read-and-convert-querycollection-values-in-aspnet)**
-- **[Serialize Interface Instances With System.Text.Json](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;serialize-interface-instances-system-text-json)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
