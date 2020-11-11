@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[ExceptionDispatchInfo And Capturing Exceptions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;exceptiondispatchinfo-and-capturing-exceptions)**
 - **[Module Initializers In C# 9](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;module-initializers-in-csharp-9)**
 - **[Looking At System.IO.Path](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;looking-at-system-io-path)**
 - **[Generate QR Codes With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-qr-codes-csharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Implement Kotlin&#39;s withIndex in C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;implement-kotlins-withindex-in-csharp)**
 - **[Ace Switch Expressions in C# 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;switch-expressions-in-csharp-8)**
 - **[Enrich HTML With ASP.NET Razor TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;enrich-html-aspnet-razor-taghelpers)**
-- **[Calculate the Moon Phase With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;calculate-moon-phase-with-csharp)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
