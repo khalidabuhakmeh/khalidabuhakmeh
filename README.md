@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Build A Giphy Search With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;build-a-giphy-search-with-aspnetcore)**
 - **[Implement A Webhook Framework With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;implement-a-webhook-framework-with-aspnetcore)**
 - **[ExceptionDispatchInfo And Capturing Exceptions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;exceptiondispatchinfo-and-capturing-exceptions)**
 - **[Module Initializers In C# 9](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;module-initializers-in-csharp-9)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Use ASP.NET With Turbolinks 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-aspnet-with-turbolinks-5)**
 - **[Add Headers To A Response In ASP.NET 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-headers-to-a-response-in-aspnet-5)**
 - **[Implement Kotlin&#39;s withIndex in C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;implement-kotlins-withindex-in-csharp)**
-- **[Ace Switch Expressions in C# 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;switch-expressions-in-csharp-8)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
