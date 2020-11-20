@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Resolve Multiple Types In ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;resolve-multiple-types-in-aspnetcore)**
 - **[Build A Giphy Search With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;build-a-giphy-search-with-aspnetcore)**
 - **[Implement A Webhook Framework With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;implement-a-webhook-framework-with-aspnetcore)**
 - **[ExceptionDispatchInfo And Capturing Exceptions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;exceptiondispatchinfo-and-capturing-exceptions)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[FormattableStringFactory and Formats](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;formattablestringfactory-and-formats)**
 - **[Use ASP.NET With Turbolinks 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-aspnet-with-turbolinks-5)**
 - **[Add Headers To A Response In ASP.NET 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-headers-to-a-response-in-aspnet-5)**
-- **[Implement Kotlin&#39;s withIndex in C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;implement-kotlins-withindex-in-csharp)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
