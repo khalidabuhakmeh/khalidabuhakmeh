@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Consuming SOAP APIs In .NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;consuming-soap-apis-in-dotnet-core)**
 - **[Blazor JavaScript Isolation, Modules, and Dynamic C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-javascript-isolation-modules-and-dynamic-csharp)**
 - **[Resolve Multiple Types In ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;resolve-multiple-types-in-aspnetcore)**
 - **[Build A Giphy Search With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;build-a-giphy-search-with-aspnetcore)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Looking At System.IO.Path](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;looking-at-system-io-path)**
 - **[Generate QR Codes With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-qr-codes-csharp)**
 - **[FormattableStringFactory and Formats](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;formattablestringfactory-and-formats)**
-- **[Use ASP.NET With Turbolinks 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;use-aspnet-with-turbolinks-5)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
