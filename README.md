@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Understand The .NET 5 Runtime Environment](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;understand-the-dotnet-five-runtime-environment)**
 - **[OhMyZsh GitHub CLI Command Completion](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;ohmyzsh-github-cli-command-completion)**
 - **[Consuming SOAP APIs In .NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;consuming-soap-apis-in-dotnet-core)**
 - **[Blazor JavaScript Isolation, Modules, and Dynamic C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-javascript-isolation-modules-and-dynamic-csharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[ExceptionDispatchInfo And Capturing Exceptions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;exceptiondispatchinfo-and-capturing-exceptions)**
 - **[Module Initializers In C# 9](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;module-initializers-in-csharp-9)**
 - **[Looking At System.IO.Path](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;looking-at-system-io-path)**
-- **[Generate QR Codes With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-qr-codes-csharp)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
