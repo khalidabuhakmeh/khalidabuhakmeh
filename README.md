@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Common Use Cases For .NET Reflection](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-usecases-for-dotnet-reflection)**
 - **[Understand The .NET 5 Runtime Environment](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;understand-the-dotnet-five-runtime-environment)**
 - **[OhMyZsh GitHub CLI Command Completion](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;ohmyzsh-github-cli-command-completion)**
 - **[Consuming SOAP APIs In .NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;consuming-soap-apis-in-dotnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Implement A Webhook Framework With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;implement-a-webhook-framework-with-aspnetcore)**
 - **[ExceptionDispatchInfo And Capturing Exceptions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;exceptiondispatchinfo-and-capturing-exceptions)**
 - **[Module Initializers In C# 9](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;module-initializers-in-csharp-9)**
-- **[Looking At System.IO.Path](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;looking-at-system-io-path)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
