@@ -68,7 +68,7 @@ I have also contributed logos to multiple .NET ecosystem projects like [Marten](
 Fun Facts: 
 
 - My wife, [Nicole](https://wanderinglush.com) and I love traveling.
-- I'm currently trying to learn Japanese. おはようございます。(Good Morining!).
+- I'm currently trying to learn Japanese. おはようございます。(Good Morning!).
 - I have two dogs named Samson and Guinness
 - I have **[KhalidForAmerica.com](https://khalidforamerica.com)** which points to my blog, and other domains.
 - I enjoy Synthwave music.
