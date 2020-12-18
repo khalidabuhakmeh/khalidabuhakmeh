@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[C# 9 Covariant Return Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-9-covariant-return-types)**
 - **[.NET OSS Docs With MarkdownSnippets](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-oss-docs-with-markdownsnippets)**
 - **[Common Use Cases For .NET Reflection](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-usecases-for-dotnet-reflection)**
 - **[Understand The .NET 5 Runtime Environment](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;understand-the-dotnet-five-runtime-environment)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Resolve Multiple Types In ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;resolve-multiple-types-in-aspnetcore)**
 - **[Build A Giphy Search With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;build-a-giphy-search-with-aspnetcore)**
 - **[Implement A Webhook Framework With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;implement-a-webhook-framework-with-aspnetcore)**
-- **[ExceptionDispatchInfo And Capturing Exceptions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;exceptiondispatchinfo-and-capturing-exceptions)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
