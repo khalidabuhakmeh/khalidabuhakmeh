@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Avoid C# 9 Record Gotchas](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;avoid-csharp-9-record-gotchas)**
 - **[C# 9 Covariant Return Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-9-covariant-return-types)**
 - **[.NET OSS Docs With MarkdownSnippets](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-oss-docs-with-markdownsnippets)**
 - **[Common Use Cases For .NET Reflection](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-usecases-for-dotnet-reflection)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Blazor JavaScript Isolation, Modules, and Dynamic C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-javascript-isolation-modules-and-dynamic-csharp)**
 - **[Resolve Multiple Types In ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;resolve-multiple-types-in-aspnetcore)**
 - **[Build A Giphy Search With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;build-a-giphy-search-with-aspnetcore)**
-- **[Implement A Webhook Framework With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;implement-a-webhook-framework-with-aspnetcore)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
