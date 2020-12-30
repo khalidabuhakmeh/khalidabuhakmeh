@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[DOM Parsing, Query Selectors, and JavaScript with AngleSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dom-parsing-query-selectors-and-javascript-with-anglesharp)**
 - **[Supercharge Blogging With .NET and Ruby Frankenblog](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;supercharge-blogging-with-frankenblog)**
 - **[Avoid C# 9 Record Gotchas](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;avoid-csharp-9-record-gotchas)**
 - **[C# 9 Covariant Return Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-9-covariant-return-types)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[OhMyZsh GitHub CLI Command Completion](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;ohmyzsh-github-cli-command-completion)**
 - **[Consuming SOAP APIs In .NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;consuming-soap-apis-in-dotnet-core)**
 - **[Blazor JavaScript Isolation, Modules, and Dynamic C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-javascript-isolation-modules-and-dynamic-csharp)**
-- **[Resolve Multiple Types In ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;resolve-multiple-types-in-aspnetcore)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
