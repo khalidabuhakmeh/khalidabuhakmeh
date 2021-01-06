@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Capitalize First Letter Of Words With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;capitalize-first-letter-of-words-with-csharp)**
 - **[Play Audio Files With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;play-audio-files-with-net)**
 - **[DOM Parsing, Query Selectors, and JavaScript with AngleSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dom-parsing-query-selectors-and-javascript-with-anglesharp)**
 - **[Supercharge Blogging With .NET and Ruby Frankenblog](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;supercharge-blogging-with-frankenblog)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Common Use Cases For .NET Reflection](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-usecases-for-dotnet-reflection)**
 - **[Understand The .NET 5 Runtime Environment](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;understand-the-dotnet-five-runtime-environment)**
 - **[OhMyZsh GitHub CLI Command Completion](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;ohmyzsh-github-cli-command-completion)**
-- **[Consuming SOAP APIs In .NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;consuming-soap-apis-in-dotnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
