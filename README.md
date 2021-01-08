@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Entity Framework Core 5 Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-5-interceptors)**
 - **[Capitalize First Letter Of Words With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;capitalize-first-letter-of-words-with-csharp)**
 - **[Play Audio Files With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;play-audio-files-with-net)**
 - **[DOM Parsing, Query Selectors, and JavaScript with AngleSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dom-parsing-query-selectors-and-javascript-with-anglesharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[.NET OSS Docs With MarkdownSnippets](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-oss-docs-with-markdownsnippets)**
 - **[Common Use Cases For .NET Reflection](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-usecases-for-dotnet-reflection)**
 - **[Understand The .NET 5 Runtime Environment](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;understand-the-dotnet-five-runtime-environment)**
-- **[OhMyZsh GitHub CLI Command Completion](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;ohmyzsh-github-cli-command-completion)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
