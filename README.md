@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Base64 Encoding With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;base64-encoding-with-csharp)**
 - **[Rethinking OSS Attribution In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;rethinking-oss-attribution-in-net)**
 - **[Entity Framework Core 5 Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-5-interceptors)**
 - **[Capitalize First Letter Of Words With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;capitalize-first-letter-of-words-with-csharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Avoid C# 9 Record Gotchas](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;avoid-csharp-9-record-gotchas)**
 - **[C# 9 Covariant Return Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-9-covariant-return-types)**
 - **[.NET OSS Docs With MarkdownSnippets](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-oss-docs-with-markdownsnippets)**
-- **[Common Use Cases For .NET Reflection](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-usecases-for-dotnet-reflection)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
