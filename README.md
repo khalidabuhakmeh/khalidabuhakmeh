@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Flatten Strings with Regex.Replace](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;flatten-strings-with-regex-replace)**
 - **[Base64 Encoding With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;base64-encoding-with-csharp)**
 - **[Rethinking OSS Attribution In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;rethinking-oss-attribution-in-net)**
 - **[Entity Framework Core 5 Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-5-interceptors)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Supercharge Blogging With .NET and Ruby Frankenblog](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;supercharge-blogging-with-frankenblog)**
 - **[Avoid C# 9 Record Gotchas](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;avoid-csharp-9-record-gotchas)**
 - **[C# 9 Covariant Return Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-9-covariant-return-types)**
-- **[.NET OSS Docs With MarkdownSnippets](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-oss-docs-with-markdownsnippets)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
