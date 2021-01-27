@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[.NET 5 Source Generators Jump Start](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-5-source-generators-jump-start)**
 - **[Find Prime Numbers With C# 9](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;find-prime-numbers-with-csharp-9)**
 - **[Flatten Strings with Regex.Replace](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;flatten-strings-with-regex-replace)**
 - **[Base64 Encoding With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;base64-encoding-with-csharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Play Audio Files With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;play-audio-files-with-net)**
 - **[DOM Parsing, Query Selectors, and JavaScript with AngleSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dom-parsing-query-selectors-and-javascript-with-anglesharp)**
 - **[Supercharge Blogging With .NET and Ruby Frankenblog](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;supercharge-blogging-with-frankenblog)**
-- **[Avoid C# 9 Record Gotchas](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;avoid-csharp-9-record-gotchas)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
