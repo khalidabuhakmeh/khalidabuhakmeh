@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Common Files In A .NET Solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-files-dotnet-solution)**
 - **[ASP.NET Core IOptions Configuration](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-ioptions-configuration)**
 - **[Tunneling VNC Through SSH on macOS](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;tunneling-vnc-through-ssh-on-macos)**
 - **[.NET 5 Source Generators Jump Start](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-5-source-generators-jump-start)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Rethinking OSS Attribution In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;rethinking-oss-attribution-in-net)**
 - **[Entity Framework Core 5 Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-5-interceptors)**
 - **[Capitalize First Letter Of Words With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;capitalize-first-letter-of-words-with-csharp)**
-- **[Play Audio Files With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;play-audio-files-with-net)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
