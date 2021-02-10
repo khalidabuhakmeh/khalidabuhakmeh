@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Entity Framework Core and ASP.NET Core Cycle Issue and Solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;ef-core-and-aspnet-core-cycle-issue-and-solution)**
 - **[Common Files In A .NET Solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-files-dotnet-solution)**
 - **[ASP.NET Core IOptions Configuration](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-ioptions-configuration)**
 - **[Tunneling VNC Through SSH on macOS](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;tunneling-vnc-through-ssh-on-macos)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Base64 Encoding With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;base64-encoding-with-csharp)**
 - **[Rethinking OSS Attribution In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;rethinking-oss-attribution-in-net)**
 - **[Entity Framework Core 5 Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-5-interceptors)**
-- **[Capitalize First Letter Of Words With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;capitalize-first-letter-of-words-with-csharp)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
