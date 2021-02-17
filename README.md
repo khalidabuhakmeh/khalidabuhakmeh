@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Playing The Super Mario Bros. Theme With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;playing-the-super-mario-bros-theme-with-csharp)**
 - **[Using Bebop With A C# TCP Server](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;bebop-with-csharp)**
 - **[Entity Framework Core and ASP.NET Core Cycle Issue and Solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;ef-core-and-aspnet-core-cycle-issue-and-solution)**
 - **[Common Files In A .NET Solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-files-dotnet-solution)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Find Prime Numbers With C# 9](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;find-prime-numbers-with-csharp-9)**
 - **[Flatten Strings with Regex.Replace](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;flatten-strings-with-regex-replace)**
 - **[Base64 Encoding With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;base64-encoding-with-csharp)**
-- **[Rethinking OSS Attribution In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;rethinking-oss-attribution-in-net)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
