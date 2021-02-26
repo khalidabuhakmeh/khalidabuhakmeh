@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Entity Framework Core 5 Value Converters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-5-value-converters)**
 - **[Install Tailwind CSS With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;install-tailwind-css-with-aspnet-core)**
 - **[Fix .NET Dependencies With Monkey Patching](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-dependencies-with-monkey-patching)**
 - **[Playing The Super Mario Bros. Theme With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;playing-the-super-mario-bros-theme-with-csharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[ASP.NET Core IOptions Configuration](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-ioptions-configuration)**
 - **[Tunneling VNC Through SSH on macOS](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;tunneling-vnc-through-ssh-on-macos)**
 - **[.NET 5 Source Generators Jump Start](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-5-source-generators-jump-start)**
-- **[Find Prime Numbers With C# 9](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;find-prime-numbers-with-csharp-9)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
