@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Raw SQL Queries With Entity Framework Core 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;raw-sql-queries-with-ef-core-5)**
 - **[Streaming Vs. Buffered Results With Entity Framework Core 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;streaming-vs-buffered-results-with-entity-framework-core-5)**
 - **[Entity Framework Core 5 Value Converters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-5-value-converters)**
 - **[Install Tailwind CSS With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;install-tailwind-css-with-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Entity Framework Core and ASP.NET Core Cycle Issue and Solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;ef-core-and-aspnet-core-cycle-issue-and-solution)**
 - **[Common Files In A .NET Solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-files-dotnet-solution)**
 - **[ASP.NET Core IOptions Configuration](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-ioptions-configuration)**
-- **[Tunneling VNC Through SSH on macOS](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;tunneling-vnc-through-ssh-on-macos)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
