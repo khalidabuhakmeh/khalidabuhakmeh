@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Community Question: Working With Data In An HTTP API](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;community-question-working-with-data-in-an-http-api)**
 - **[Hosting Two ASP.NET Core Apps In One Host](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;hosting-two-aspnet-core-apps-in-one-host)**
 - **[Raw SQL Queries With Entity Framework Core 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;raw-sql-queries-with-ef-core-5)**
 - **[Streaming Vs. Buffered Results With Entity Framework Core 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;streaming-vs-buffered-results-with-entity-framework-core-5)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Playing The Super Mario Bros. Theme With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;playing-the-super-mario-bros-theme-with-csharp)**
 - **[Using Bebop With A C# TCP Server](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;bebop-with-csharp)**
 - **[Entity Framework Core and ASP.NET Core Cycle Issue and Solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;ef-core-and-aspnet-core-cycle-issue-and-solution)**
-- **[Common Files In A .NET Solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;common-files-dotnet-solution)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
