@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Resolve Services In ASP.NET Core Startup](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;resolve-services-in-aspnet-core-startup)**
 - **[Create A Zip File With .NET 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;create-a-zip-file-with-dotnet-5)**
 - **[Community Question: Working With Data In An HTTP API](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;community-question-working-with-data-in-an-http-api)**
 - **[Hosting Two ASP.NET Core Apps In One Host](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;hosting-two-aspnet-core-apps-in-one-host)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Install Tailwind CSS With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;install-tailwind-css-with-aspnet-core)**
 - **[Fix .NET Dependencies With Monkey Patching](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-dependencies-with-monkey-patching)**
 - **[Playing The Super Mario Bros. Theme With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;playing-the-super-mario-bros-theme-with-csharp)**
-- **[Using Bebop With A C# TCP Server](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;bebop-with-csharp)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
