@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[How To Build A Basic HTTP API With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-build-a-basic-http-api-with-aspnet-core)**
 - **[How To Add A View To An Entity Framework Core DbContext](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-a-view-to-an-entity-framework-core-dbcontext)**
 - **[Resolve Services In ASP.NET Core Startup](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;resolve-services-in-aspnet-core-startup)**
 - **[Create A Zip File With .NET 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;create-a-zip-file-with-dotnet-5)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Streaming Vs. Buffered Results With Entity Framework Core 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;streaming-vs-buffered-results-with-entity-framework-core-5)**
 - **[Entity Framework Core 5 Value Converters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-5-value-converters)**
 - **[Install Tailwind CSS With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;install-tailwind-css-with-aspnet-core)**
-- **[Fix .NET Dependencies With Monkey Patching](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-dependencies-with-monkey-patching)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
