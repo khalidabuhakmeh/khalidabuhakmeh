@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Modeling Most SQL Relationships In Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;modeling-most-sql-relationships-in-entity-framework-core)**
 - **[Building Mono-Repositories With GitHub Actions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;building-mono-repositories-with-github-actions)**
 - **[Handle Exceptions With ASP.NET Core ExceptionHandlerMiddleware](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;handling-aspnet-core-exceptions-with-exceptionhandler-middleware)**
 - **[How To Build A Basic HTTP API With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-build-a-basic-http-api-with-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Community Question: Working With Data In An HTTP API](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;community-question-working-with-data-in-an-http-api)**
 - **[Hosting Two ASP.NET Core Apps In One Host](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;hosting-two-aspnet-core-apps-in-one-host)**
 - **[Raw SQL Queries With Entity Framework Core 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;raw-sql-queries-with-ef-core-5)**
-- **[Streaming Vs. Buffered Results With Entity Framework Core 5](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;streaming-vs-buffered-results-with-entity-framework-core-5)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
