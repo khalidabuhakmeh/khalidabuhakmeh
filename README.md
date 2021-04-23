@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Add Svelte To ASP.NET Core Projects](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-svelte-to-aspnet-core-projects)**
 - **[Fix .NET ICU Build Issues In GitHub Actions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-icu-build-issues-in-github-actions)**
 - **[How To Add Models To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-models-to-aspnet-core)**
 - **[Generate Links To ASP.NET Core Map Endpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-links-to-aspnet-core-map-endpoints)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Handle Exceptions With ASP.NET Core ExceptionHandlerMiddleware](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;handling-aspnet-core-exceptions-with-exceptionhandler-middleware)**
 - **[How To Build A Basic HTTP API With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-build-a-basic-http-api-with-aspnet-core)**
 - **[How To Add A View To An Entity Framework Core DbContext](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-a-view-to-an-entity-framework-core-dbcontext)**
-- **[Resolve Services In ASP.NET Core Startup](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;resolve-services-in-aspnet-core-startup)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
