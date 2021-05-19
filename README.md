@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Working With .NET Console Host Lifetime Events](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-dotnet-console-host-lifetime-events)**
 - **[Solve For The Next DayOfWeek From DateTime](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solve-for-the-next-dayofweek-from-datetime)**
 - **[What Is Razor - ASP.NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-is-razor-aspnet)**
 - **[Access Background Services From ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;access-background-services-from-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[How To Add Models To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-models-to-aspnet-core)**
 - **[Generate Links To ASP.NET Core Map Endpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-links-to-aspnet-core-map-endpoints)**
 - **[Recursive Data With Entity Framework Core and SQL Server](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;recursive-data-with-entity-framework-core-and-sql-server)**
-- **[Modeling Most SQL Relationships In Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;modeling-most-sql-relationships-in-entity-framework-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
