@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[The Difference Between HTML and URL Encode In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-difference-between-html-and-url-encode-in-dotnet)**
 - **[Working With .NET Console Host Lifetime Events](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-dotnet-console-host-lifetime-events)**
 - **[Solve For The Next DayOfWeek From DateTime](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solve-for-the-next-dayofweek-from-datetime)**
 - **[What Is Razor - ASP.NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-is-razor-aspnet)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Fix .NET ICU Build Issues In GitHub Actions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-icu-build-issues-in-github-actions)**
 - **[How To Add Models To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-models-to-aspnet-core)**
 - **[Generate Links To ASP.NET Core Map Endpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-links-to-aspnet-core-map-endpoints)**
-- **[Recursive Data With Entity Framework Core and SQL Server](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;recursive-data-with-entity-framework-core-and-sql-server)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
