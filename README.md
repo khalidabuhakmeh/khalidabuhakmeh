@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Preventing Duplicate Web Requests To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;preventing-duplicate-web-requests-to-aspnet-core)**
 - **[Working With .NET 6&#39;s PriorityQueue](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-dotnet-six-priorityqueue)**
 - **[The Difference Between HTML and URL Encode In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-difference-between-html-and-url-encode-in-dotnet)**
 - **[Working With .NET Console Host Lifetime Events](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-dotnet-console-host-lifetime-events)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Read and Write Excel Spreadsheets With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;read-write-excel-spreadsheets-with-csharp)**
 - **[Add Svelte To ASP.NET Core Projects](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-svelte-to-aspnet-core-projects)**
 - **[Fix .NET ICU Build Issues In GitHub Actions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-icu-build-issues-in-github-actions)**
-- **[How To Add Models To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-models-to-aspnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
