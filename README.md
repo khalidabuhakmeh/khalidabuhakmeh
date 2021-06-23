@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[HTTP Range Requests and Partial Responses With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;partial-range-http-requests-with-aspnet-core)**
 - **[C# Pattern Matching Quick Guide And Examples](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-pattern-matching-quick-guide-and-examples)**
 - **[Preventing Duplicate Web Requests To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;preventing-duplicate-web-requests-to-aspnet-core)**
 - **[Working With .NET 6&#39;s PriorityQueue](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-dotnet-six-priorityqueue)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[What Is Razor - ASP.NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-is-razor-aspnet)**
 - **[Access Background Services From ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;access-background-services-from-aspnet-core)**
 - **[Read and Write Excel Spreadsheets With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;read-write-excel-spreadsheets-with-csharp)**
-- **[Add Svelte To ASP.NET Core Projects](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-svelte-to-aspnet-core-projects)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
