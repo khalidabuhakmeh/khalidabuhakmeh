@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Boost ASP.NET Core Performance with Static Content](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;boost-aspnet-core-performance-with-static-content)**
 - **[HTTP Range Requests and Partial Responses With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;partial-range-http-requests-with-aspnet-core)**
 - **[C# Pattern Matching Quick Guide And Examples](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-pattern-matching-quick-guide-and-examples)**
 - **[Preventing Duplicate Web Requests To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;preventing-duplicate-web-requests-to-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Solve For The Next DayOfWeek From DateTime](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solve-for-the-next-dayofweek-from-datetime)**
 - **[What Is Razor - ASP.NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-is-razor-aspnet)**
 - **[Access Background Services From ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;access-background-services-from-aspnet-core)**
-- **[Read and Write Excel Spreadsheets With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;read-write-excel-spreadsheets-with-csharp)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
