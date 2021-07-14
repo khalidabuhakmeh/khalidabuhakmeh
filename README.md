@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Fix Blurry Ubuntu Display In A Parallels Virtual Machine](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-blurry-ubuntu-display-parallels-vm)**
 - **[Decrypt Secrets Into ASP.NET Core MVC Action Arguments Using Action Filters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;decrypt-secrets-into-aspnet-core-mvc-action-arguments-using-action-filters)**
 - **[Boost ASP.NET Core Performance with Static Content](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;boost-aspnet-core-performance-with-static-content)**
 - **[HTTP Range Requests and Partial Responses With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;partial-range-http-requests-with-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[The Difference Between HTML and URL Encode In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-difference-between-html-and-url-encode-in-dotnet)**
 - **[Working With .NET Console Host Lifetime Events](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-dotnet-console-host-lifetime-events)**
 - **[Solve For The Next DayOfWeek From DateTime](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solve-for-the-next-dayofweek-from-datetime)**
-- **[What Is Razor - ASP.NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-is-razor-aspnet)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
