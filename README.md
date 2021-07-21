@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Blazor and Cancelling Asynchronous Calls With CancellationTokenSource](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-and-cancelling-asynchronous-calls-with-cancellationtokensource)**
 - **[Fix Blurry Ubuntu Display In A Parallels Virtual Machine](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-blurry-ubuntu-display-parallels-vm)**
 - **[Decrypt Secrets Into ASP.NET Core MVC Action Arguments Using Action Filters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;decrypt-secrets-into-aspnet-core-mvc-action-arguments-using-action-filters)**
 - **[Boost ASP.NET Core Performance with Static Content](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;boost-aspnet-core-performance-with-static-content)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Working With .NET 6&#39;s PriorityQueue](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-dotnet-six-priorityqueue)**
 - **[The Difference Between HTML and URL Encode In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-difference-between-html-and-url-encode-in-dotnet)**
 - **[Working With .NET Console Host Lifetime Events](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-dotnet-console-host-lifetime-events)**
-- **[Solve For The Next DayOfWeek From DateTime](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solve-for-the-next-dayofweek-from-datetime)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
