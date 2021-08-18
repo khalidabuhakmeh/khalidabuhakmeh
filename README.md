@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Get A Property Name From a .NET Lambda Expression](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-a-property-name-from-a-dotnet-lambda-expression)**
 - **[Simple Redirects With ASP.NET Core Endpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;simple-redirects-with-aspnet-core-endpoint-routing)**
 - **[.NET Source Generators: Finding Class Declarations](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-source-generators-finding-class-declarations)**
 - **[Parse Redis-CLI Connection URI To Use With StackExchange.Redis](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;redis-cli-connection-uri-with-stackexchangeredis)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Boost ASP.NET Core Performance with Static Content](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;boost-aspnet-core-performance-with-static-content)**
 - **[HTTP Range Requests and Partial Responses With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;partial-range-http-requests-with-aspnet-core)**
 - **[C# Pattern Matching Quick Guide And Examples](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-pattern-matching-quick-guide-and-examples)**
-- **[Preventing Duplicate Web Requests To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;preventing-duplicate-web-requests-to-aspnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
