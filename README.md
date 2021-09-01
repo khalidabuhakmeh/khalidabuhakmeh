@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Build .NET Search Experiences With Lunr-Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;build-dotnet-search-experiences-with-lunr-core)**
 - **[End-to-End Tests With ASP.NET Core, XUnit, and Playwright](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;end-to-end-test-with-aspnet-core-xunit-and-playwright)**
 - **[Get A Property Name From a .NET Lambda Expression](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-a-property-name-from-a-dotnet-lambda-expression)**
 - **[Simple Redirects With ASP.NET Core Endpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;simple-redirects-with-aspnet-core-endpoint-routing)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Fix Blurry Ubuntu Display In A Parallels Virtual Machine](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-blurry-ubuntu-display-parallels-vm)**
 - **[Decrypt Secrets Into ASP.NET Core MVC Action Arguments Using Action Filters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;decrypt-secrets-into-aspnet-core-mvc-action-arguments-using-action-filters)**
 - **[Boost ASP.NET Core Performance with Static Content](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;boost-aspnet-core-performance-with-static-content)**
-- **[HTTP Range Requests and Partial Responses With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;partial-range-http-requests-with-aspnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
