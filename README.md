@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Using .NET To Validate JSON with JSON Schema](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-dotnet-to-validate-json-with-json-schema)**
 - **[How To Map A Route in an ASP.NET Core MVC application](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-map-a-route-in-an-aspnet-core-mvc-application)**
 - **[Build .NET Search Experiences With Lunr-Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;build-dotnet-search-experiences-with-lunr-core)**
 - **[End-to-End Tests With ASP.NET Core, XUnit, and Playwright](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;end-to-end-test-with-aspnet-core-xunit-and-playwright)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Parse Redis-CLI Connection URI To Use With StackExchange.Redis](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;redis-cli-connection-uri-with-stackexchangeredis)**
 - **[Blazor and Cancelling Asynchronous Calls With CancellationTokenSource](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-and-cancelling-asynchronous-calls-with-cancellationtokensource)**
 - **[Fix Blurry Ubuntu Display In A Parallels Virtual Machine](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-blurry-ubuntu-display-parallels-vm)**
-- **[Decrypt Secrets Into ASP.NET Core MVC Action Arguments Using Action Filters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;decrypt-secrets-into-aspnet-core-mvc-action-arguments-using-action-filters)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
