@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Compress Strings With .NET and C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;compress-strings-with-dotnet-and-csharp)**
 - **[Interesting Technology Tips - Vol. 1](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;interesting-technology-tips-vol-1)**
 - **[Using .NET To Validate JSON with JSON Schema](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-dotnet-to-validate-json-with-json-schema)**
 - **[How To Map A Route in an ASP.NET Core MVC application](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-map-a-route-in-an-aspnet-core-mvc-application)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Simple Redirects With ASP.NET Core Endpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;simple-redirects-with-aspnet-core-endpoint-routing)**
 - **[.NET Source Generators: Finding Class Declarations](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-source-generators-finding-class-declarations)**
 - **[Parse Redis-CLI Connection URI To Use With StackExchange.Redis](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;redis-cli-connection-uri-with-stackexchangeredis)**
-- **[Blazor and Cancelling Asynchronous Calls With CancellationTokenSource](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-and-cancelling-asynchronous-calls-with-cancellationtokensource)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
