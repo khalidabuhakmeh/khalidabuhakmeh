@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Entity Framework Core ConnectionStrings For .NET Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-connectionstrings-for-dotnet-apps)**
 - **[Compress Strings With .NET and C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;compress-strings-with-dotnet-and-csharp)**
 - **[Interesting Technology Tips - Vol. 1](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;interesting-technology-tips-vol-1)**
 - **[Using .NET To Validate JSON with JSON Schema](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-dotnet-to-validate-json-with-json-schema)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Get A Property Name From a .NET Lambda Expression](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-a-property-name-from-a-dotnet-lambda-expression)**
 - **[Simple Redirects With ASP.NET Core Endpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;simple-redirects-with-aspnet-core-endpoint-routing)**
 - **[.NET Source Generators: Finding Class Declarations](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-source-generators-finding-class-declarations)**
-- **[Parse Redis-CLI Connection URI To Use With StackExchange.Redis](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;redis-cli-connection-uri-with-stackexchangeredis)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
