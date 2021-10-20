@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Bulk Import Records Into SQLite With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;bulk-import-records-into-sqlite-csharp)**
 - **[Cursor Paging With Entity Framework Core and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;cursor-paging-with-entity-framework-core-and-aspnet-core)**
 - **[Entity Framework Core ConnectionStrings For .NET Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-connectionstrings-for-dotnet-apps)**
 - **[Compress Strings With .NET and C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;compress-strings-with-dotnet-and-csharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Build .NET Search Experiences With Lunr-Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;build-dotnet-search-experiences-with-lunr-core)**
 - **[End-to-End Tests With ASP.NET Core, XUnit, and Playwright](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;end-to-end-test-with-aspnet-core-xunit-and-playwright)**
 - **[Get A Property Name From a .NET Lambda Expression](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-a-property-name-from-a-dotnet-lambda-expression)**
-- **[Simple Redirects With ASP.NET Core Endpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;simple-redirects-with-aspnet-core-endpoint-routing)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
