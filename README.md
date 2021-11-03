@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Add GitHub OpenID Auth For ASP.NET Core Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;github-openid-auth-aspnet-core-apps)**
 - **[Generate ASP.NET Core OpenAPI Spec At Build Time](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-aspnet-core-openapi-spec-at-build-time)**
 - **[Bulk Import Records Into SQLite With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;bulk-import-records-into-sqlite-csharp)**
 - **[Cursor Paging With Entity Framework Core and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;cursor-paging-with-entity-framework-core-and-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Using .NET To Validate JSON with JSON Schema](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-dotnet-to-validate-json-with-json-schema)**
 - **[How To Map A Route in an ASP.NET Core MVC application](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-map-a-route-in-an-aspnet-core-mvc-application)**
 - **[Build .NET Search Experiences With Lunr-Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;build-dotnet-search-experiences-with-lunr-core)**
-- **[End-to-End Tests With ASP.NET Core, XUnit, and Playwright](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;end-to-end-test-with-aspnet-core-xunit-and-playwright)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
