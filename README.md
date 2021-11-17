@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[ASP.NET Docker Gotchas and Workarounds](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-docker-gotchas-and-workarounds)**
 - **[GIFs in Console Output Using ImageSharp and Spectre.Console](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;gifs-in-console-output-imagesharp-and-spectreconsole)**
 - **[Add GitHub OpenID Auth For ASP.NET Core Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;github-openid-auth-aspnet-core-apps)**
 - **[Generate ASP.NET Core OpenAPI Spec At Build Time](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-aspnet-core-openapi-spec-at-build-time)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Compress Strings With .NET and C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;compress-strings-with-dotnet-and-csharp)**
 - **[Interesting Technology Tips - Vol. 1](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;interesting-technology-tips-vol-1)**
 - **[Using .NET To Validate JSON with JSON Schema](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-dotnet-to-validate-json-with-json-schema)**
-- **[How To Map A Route in an ASP.NET Core MVC application](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-map-a-route-in-an-aspnet-core-mvc-application)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
