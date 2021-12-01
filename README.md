@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Polymorphic Serialization with .NET System.Text.Json](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;polymorphic-serialization-with-dotnet-system-text-json)**
 - **[A .NET 5.0 Guide: From Idea To NuGet Package](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;a-dotnet-five-guide-from-idea-to-nuget-package)**
 - **[ASP.NET Docker Gotchas and Workarounds](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-docker-gotchas-and-workarounds)**
 - **[GIFs in Console Output Using ImageSharp and Spectre.Console](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;gifs-in-console-output-imagesharp-and-spectreconsole)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Cursor Paging With Entity Framework Core and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;cursor-paging-with-entity-framework-core-and-aspnet-core)**
 - **[Entity Framework Core ConnectionStrings For .NET Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-connectionstrings-for-dotnet-apps)**
 - **[Compress Strings With .NET and C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;compress-strings-with-dotnet-and-csharp)**
-- **[Interesting Technology Tips - Vol. 1](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;interesting-technology-tips-vol-1)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
