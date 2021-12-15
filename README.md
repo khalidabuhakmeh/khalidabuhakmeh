@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[JSON in HTML Attributes With ASP.NET Core TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;json-in-html-attributes-with-aspnet-core-taghelpers)**
 - **[HTMX With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-with-aspnet-core)**
 - **[Polymorphic Serialization with .NET System.Text.Json](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;polymorphic-serialization-with-dotnet-system-text-json)**
 - **[A .NET 5.0 Guide: From Idea To NuGet Package](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;a-dotnet-five-guide-from-idea-to-nuget-package)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Generate ASP.NET Core OpenAPI Spec At Build Time](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-aspnet-core-openapi-spec-at-build-time)**
 - **[Bulk Import Records Into SQLite With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;bulk-import-records-into-sqlite-csharp)**
 - **[Cursor Paging With Entity Framework Core and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;cursor-paging-with-entity-framework-core-and-aspnet-core)**
-- **[Entity Framework Core ConnectionStrings For .NET Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-connectionstrings-for-dotnet-apps)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
