@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[HTMX Requests with ASP.NET Core Anti-Forgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-requests-with-aspnet-core-anti-forgery-tokens)**
 - **[JSON in HTML Attributes With ASP.NET Core TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;json-in-html-attributes-with-aspnet-core-taghelpers)**
 - **[HTMX With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-with-aspnet-core)**
 - **[Polymorphic Serialization with .NET System.Text.Json](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;polymorphic-serialization-with-dotnet-system-text-json)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Add GitHub OpenID Auth For ASP.NET Core Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;github-openid-auth-aspnet-core-apps)**
 - **[Generate ASP.NET Core OpenAPI Spec At Build Time](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-aspnet-core-openapi-spec-at-build-time)**
 - **[Bulk Import Records Into SQLite With C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;bulk-import-records-into-sqlite-csharp)**
-- **[Cursor Paging With Entity Framework Core and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;cursor-paging-with-entity-framework-core-and-aspnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
