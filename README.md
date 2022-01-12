@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Adding Clarity To .NET Minimal Hosting APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-clarity-to-dotnet-minimal-hosting)**
 - **[Create Context-based Programming Models with .NET 6](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;create-context-based-programming-models-with-dotnet-6)**
 - **[HTMX and ASP.NET Core Swapping Techniques](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-and-aspnet-core-swapping-techniques)**
 - **[HTMX Requests with ASP.NET Core Anti-Forgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-requests-with-aspnet-core-anti-forgery-tokens)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[A .NET 5.0 Guide: From Idea To NuGet Package](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;a-dotnet-five-guide-from-idea-to-nuget-package)**
 - **[ASP.NET Docker Gotchas and Workarounds](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-docker-gotchas-and-workarounds)**
 - **[GIFs in Console Output Using ImageSharp and Spectre.Console](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;gifs-in-console-output-imagesharp-and-spectreconsole)**
-- **[Add GitHub OpenID Auth For ASP.NET Core Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;github-openid-auth-aspnet-core-apps)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
