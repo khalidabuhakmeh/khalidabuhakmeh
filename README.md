@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[.NET Watch Launch Setting Profile For ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-watch-launchsetting-for-aspnet-core)**
 - **[Get C# Metadata From a Call Site](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-csharp-metadata-from-a-callsite)**
 - **[Adding Clarity To .NET Minimal Hosting APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-clarity-to-dotnet-minimal-hosting)**
 - **[Create Context-based Programming Models with .NET 6](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;create-context-based-programming-models-with-dotnet-6)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[HTMX With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-with-aspnet-core)**
 - **[Polymorphic Serialization with .NET System.Text.Json](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;polymorphic-serialization-with-dotnet-system-text-json)**
 - **[A .NET 5.0 Guide: From Idea To NuGet Package](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;a-dotnet-five-guide-from-idea-to-nuget-package)**
-- **[ASP.NET Docker Gotchas and Workarounds](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-docker-gotchas-and-workarounds)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
