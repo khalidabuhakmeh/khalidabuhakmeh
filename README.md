@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Running SQL Server Queries In Docker](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-sql-server-queries-in-docker)**
 - **[Static Abstract Members In C# 10 Interfaces](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;static-abstract-members-in-csharp-10-interfaces)**
 - **[.NET Watch Launch Setting Profile For ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-watch-launchsetting-for-aspnet-core)**
 - **[Get C# Metadata From a Call Site](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-csharp-metadata-from-a-callsite)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[HTMX Requests with ASP.NET Core Anti-Forgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-requests-with-aspnet-core-anti-forgery-tokens)**
 - **[JSON in HTML Attributes With ASP.NET Core TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;json-in-html-attributes-with-aspnet-core-taghelpers)**
 - **[HTMX With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-with-aspnet-core)**
-- **[Polymorphic Serialization with .NET System.Text.Json](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;polymorphic-serialization-with-dotnet-system-text-json)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
