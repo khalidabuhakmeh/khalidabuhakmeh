@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Logging Trace Output Using ILogger in .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;logging-trace-output-using-ilogger-in-dotnet-applications)**
 - **[Running SQL Server Queries In Docker](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-sql-server-queries-in-docker)**
 - **[Static Abstract Members In C# 10 Interfaces](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;static-abstract-members-in-csharp-10-interfaces)**
 - **[.NET Watch Launch Setting Profile For ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-watch-launchsetting-for-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[HTMX and ASP.NET Core Swapping Techniques](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-and-aspnet-core-swapping-techniques)**
 - **[HTMX Requests with ASP.NET Core Anti-Forgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-requests-with-aspnet-core-anti-forgery-tokens)**
 - **[JSON in HTML Attributes With ASP.NET Core TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;json-in-html-attributes-with-aspnet-core-taghelpers)**
-- **[HTMX With ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-with-aspnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
