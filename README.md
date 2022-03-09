@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Loop Around Index with C# Collections](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;loop-around-index-with-csharp-collections)**
 - **[Image Style Transfer With C#, ONNX, and ImageSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;image-style-transfer-with-csharp-onnx-and-imagesharp)**
 - **[Testing ASP.NET Core 6 Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-aspnet-core-6-apps)**
 - **[Logging Trace Output Using ILogger in .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;logging-trace-output-using-ilogger-in-dotnet-applications)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Get C# Metadata From a Call Site](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-csharp-metadata-from-a-callsite)**
 - **[Adding Clarity To .NET Minimal Hosting APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-clarity-to-dotnet-minimal-hosting)**
 - **[Create Context-based Programming Models with .NET 6](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;create-context-based-programming-models-with-dotnet-6)**
-- **[HTMX and ASP.NET Core Swapping Techniques](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-and-aspnet-core-swapping-techniques)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
