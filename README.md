@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[ASP.NET Core 6 MVC Upgrade System.Text.Json Serialization Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-6-mvc-upgrade-systemtextjson-serialization-issues)**
 - **[Loop Around Index with C# Collections](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;loop-around-index-with-csharp-collections)**
 - **[Image Style Transfer With C#, ONNX, and ImageSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;image-style-transfer-with-csharp-onnx-and-imagesharp)**
 - **[Testing ASP.NET Core 6 Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-aspnet-core-6-apps)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[.NET Watch Launch Setting Profile For ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-watch-launchsetting-for-aspnet-core)**
 - **[Get C# Metadata From a Call Site](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-csharp-metadata-from-a-callsite)**
 - **[Adding Clarity To .NET Minimal Hosting APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-clarity-to-dotnet-minimal-hosting)**
-- **[Create Context-based Programming Models with .NET 6](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;create-context-based-programming-models-with-dotnet-6)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
