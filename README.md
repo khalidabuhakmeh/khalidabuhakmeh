@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Unit Tests For Legacy Systems with .NET 6](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-tests-for-legacy-systems-with-dotnet-6)**
 - **[ASP.NET Core 6 MVC Upgrade System.Text.Json Serialization Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-6-mvc-upgrade-systemtextjson-serialization-issues)**
 - **[Loop Around Index with C# Collections](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;loop-around-index-with-csharp-collections)**
 - **[Image Style Transfer With C#, ONNX, and ImageSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;image-style-transfer-with-csharp-onnx-and-imagesharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Static Abstract Members In C# 10 Interfaces](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;static-abstract-members-in-csharp-10-interfaces)**
 - **[.NET Watch Launch Setting Profile For ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-watch-launchsetting-for-aspnet-core)**
 - **[Get C# Metadata From a Call Site](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-csharp-metadata-from-a-callsite)**
-- **[Adding Clarity To .NET Minimal Hosting APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-clarity-to-dotnet-minimal-hosting)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
