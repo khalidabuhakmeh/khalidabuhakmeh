@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Client-side Image Previews With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;client-side-image-previews-with-javascript)**
 - **[Using LibMan To Manage Client-Side Dependencies](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-libman-to-manage-client-side-dependencies)**
 - **[Unit Tests For Legacy Systems with .NET 6](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-tests-for-legacy-systems-with-dotnet-6)**
 - **[ASP.NET Core 6 MVC Upgrade System.Text.Json Serialization Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-6-mvc-upgrade-systemtextjson-serialization-issues)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Logging Trace Output Using ILogger in .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;logging-trace-output-using-ilogger-in-dotnet-applications)**
 - **[Running SQL Server Queries In Docker](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-sql-server-queries-in-docker)**
 - **[Static Abstract Members In C# 10 Interfaces](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;static-abstract-members-in-csharp-10-interfaces)**
-- **[.NET Watch Launch Setting Profile For ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-watch-launchsetting-for-aspnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
