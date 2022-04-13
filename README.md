@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Adding Alt Text To Twitter Images Using C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-alt-text-to-twitter-images-using-csharp)**
 - **[Client-side Image Previews With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;client-side-image-previews-with-javascript)**
 - **[Using LibMan To Manage Client-Side Dependencies](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-libman-to-manage-client-side-dependencies)**
 - **[Unit Tests For Legacy Systems with .NET 6](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-tests-for-legacy-systems-with-dotnet-6)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Testing ASP.NET Core 6 Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-aspnet-core-6-apps)**
 - **[Logging Trace Output Using ILogger in .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;logging-trace-output-using-ilogger-in-dotnet-applications)**
 - **[Running SQL Server Queries In Docker](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-sql-server-queries-in-docker)**
-- **[Static Abstract Members In C# 10 Interfaces](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;static-abstract-members-in-csharp-10-interfaces)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
