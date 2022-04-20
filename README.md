@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[ASP.NET Core Interview Questions and Answers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-interview-questions-and-answers)**
 - **[Adding Alt Text To Twitter Images Using C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-alt-text-to-twitter-images-using-csharp)**
 - **[Client-side Image Previews With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;client-side-image-previews-with-javascript)**
 - **[Using LibMan To Manage Client-Side Dependencies](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-libman-to-manage-client-side-dependencies)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Image Style Transfer With C#, ONNX, and ImageSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;image-style-transfer-with-csharp-onnx-and-imagesharp)**
 - **[Testing ASP.NET Core 6 Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-aspnet-core-6-apps)**
 - **[Logging Trace Output Using ILogger in .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;logging-trace-output-using-ilogger-in-dotnet-applications)**
-- **[Running SQL Server Queries In Docker](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-sql-server-queries-in-docker)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
