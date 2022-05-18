@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Using SQL Server Cursors with Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-sql-server-cursors-with-entity-framework-core)**
 - **[Using ASP.NET Core MVC Value Providers With Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-aspnet-core-mvc-value-providers-with-minimal-apis)**
 - **[ASP.NET Core JavaScript Collocated TagHelper](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-javascript-collocated-taghelper)**
 - **[Create .NET Objects without Calling The Constructor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;create-dotnet-objects-without-calling-the-constructor)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Using LibMan To Manage Client-Side Dependencies](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-libman-to-manage-client-side-dependencies)**
 - **[Unit Tests For Legacy Systems with .NET 6](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-tests-for-legacy-systems-with-dotnet-6)**
 - **[ASP.NET Core 6 MVC Upgrade System.Text.Json Serialization Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-6-mvc-upgrade-systemtextjson-serialization-issues)**
-- **[Loop Around Index with C# Collections](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;loop-around-index-with-csharp-collections)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
