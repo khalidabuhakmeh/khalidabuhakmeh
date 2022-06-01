@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Change C# Record Comparison with Source Generators](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;change-csharp-record-comparison-with-source-generators)**
 - **[Get Tweet Engagements Using .NET and C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-tweet-engagements-using-dotnet-and-csharp)**
 - **[Using SQL Server Cursors with Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-sql-server-cursors-with-entity-framework-core)**
 - **[Using ASP.NET Core MVC Value Providers With Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-aspnet-core-mvc-value-providers-with-minimal-apis)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Adding Alt Text To Twitter Images Using C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-alt-text-to-twitter-images-using-csharp)**
 - **[Client-side Image Previews With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;client-side-image-previews-with-javascript)**
 - **[Using LibMan To Manage Client-Side Dependencies](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-libman-to-manage-client-side-dependencies)**
-- **[Unit Tests For Legacy Systems with .NET 6](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-tests-for-legacy-systems-with-dotnet-6)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
