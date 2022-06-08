@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Fun: Leaderboard Output Using C# Pattern Matching](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fun-leaderboard-output-using-csharp-pattern-matching)**
 - **[Change C# Record Comparison with Source Generators](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;change-csharp-record-comparison-with-source-generators)**
 - **[Get Tweet Engagements Using .NET and C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-tweet-engagements-using-dotnet-and-csharp)**
 - **[Using SQL Server Cursors with Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-sql-server-cursors-with-entity-framework-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[ASP.NET Core Interview Questions and Answers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-interview-questions-and-answers)**
 - **[Adding Alt Text To Twitter Images Using C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-alt-text-to-twitter-images-using-csharp)**
 - **[Client-side Image Previews With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;client-side-image-previews-with-javascript)**
-- **[Using LibMan To Manage Client-Side Dependencies](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-libman-to-manage-client-side-dependencies)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
