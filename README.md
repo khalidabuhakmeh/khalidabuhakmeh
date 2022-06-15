@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Storing Dynamic User Data With Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;storing-dynamic-user-data-with-ef-core)**
 - **[Fun: Leaderboard Output Using C# Pattern Matching](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fun-leaderboard-output-using-csharp-pattern-matching)**
 - **[Change C# Record Comparison with Source Generators](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;change-csharp-record-comparison-with-source-generators)**
 - **[Get Tweet Engagements Using .NET and C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-tweet-engagements-using-dotnet-and-csharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Create .NET Objects without Calling The Constructor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;create-dotnet-objects-without-calling-the-constructor)**
 - **[ASP.NET Core Interview Questions and Answers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-interview-questions-and-answers)**
 - **[Adding Alt Text To Twitter Images Using C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-alt-text-to-twitter-images-using-csharp)**
-- **[Client-side Image Previews With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;client-side-image-previews-with-javascript)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
