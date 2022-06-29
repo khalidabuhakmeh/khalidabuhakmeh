@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Minimal API Route Handler Filters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;minimal-api-route-handler-filters)**
 - **[Five of the Most Common Kinds of NuGet Packages](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;five-of-the-most-common-kinds-of-nuget-packages)**
 - **[Storing Dynamic User Data With Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;storing-dynamic-user-data-with-ef-core)**
 - **[Fun: Leaderboard Output Using C# Pattern Matching](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fun-leaderboard-output-using-csharp-pattern-matching)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Using ASP.NET Core MVC Value Providers With Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-aspnet-core-mvc-value-providers-with-minimal-apis)**
 - **[ASP.NET Core JavaScript Collocated TagHelper](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-javascript-collocated-taghelper)**
 - **[Create .NET Objects without Calling The Constructor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;create-dotnet-objects-without-calling-the-constructor)**
-- **[ASP.NET Core Interview Questions and Answers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-interview-questions-and-answers)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
