@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Installing and Uninstalling .NET Templates](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;installing-and-uninstalling-dotnet-templates)**
 - **[Taming Your .NET Twitter Bots With Rules](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;taming-your-dotnet-twitter-bots-with-rules)**
 - **[.NET Debugger.Launch for macOS and Linux](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-debugger-launch-for-macos-and-linux)**
 - **[Minimal API Validation with FluentValidation](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;minimal-api-validation-with-fluentvalidation)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Fun: Leaderboard Output Using C# Pattern Matching](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fun-leaderboard-output-using-csharp-pattern-matching)**
 - **[Change C# Record Comparison with Source Generators](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;change-csharp-record-comparison-with-source-generators)**
 - **[Get Tweet Engagements Using .NET and C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;get-tweet-engagements-using-dotnet-and-csharp)**
-- **[Using SQL Server Cursors with Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-sql-server-cursors-with-entity-framework-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
