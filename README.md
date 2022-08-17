@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Using LINQ and Getting Chunky With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;getting-chunky-with-dotnet)**
 - **[Fun With Custom Interpolated String Handlers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fun-with-custom-interpolated-string-handlers)**
 - **[C# Converting Bytes To Kilobytes and Beyond](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-converting-bytes-to-kb-mb-gb-and-tb)**
 - **[Installing and Uninstalling .NET Templates](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;installing-and-uninstalling-dotnet-templates)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Minimal API Route Handler Filters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;minimal-api-route-handler-filters)**
 - **[Five of the Most Common Kinds of NuGet Packages](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;five-of-the-most-common-kinds-of-nuget-packages)**
 - **[Storing Dynamic User Data With Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;storing-dynamic-user-data-with-ef-core)**
-- **[Fun: Leaderboard Output Using C# Pattern Matching](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fun-leaderboard-output-using-csharp-pattern-matching)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
