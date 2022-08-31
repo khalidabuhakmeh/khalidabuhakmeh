@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Troubleshooting .NET Blazor WASM Debugging](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;troubleshooting-dotnet-blazor-wasm-debugging)**
 - **[Sharing Auth Cookies With YARP, IdentityServer, and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core)**
 - **[Using LINQ and Getting Chunky With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;getting-chunky-with-dotnet)**
 - **[Fun With Custom Interpolated String Handlers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fun-with-custom-interpolated-string-handlers)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[.NET Debugger.Launch for macOS and Linux](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-debugger-launch-for-macos-and-linux)**
 - **[Minimal API Validation with FluentValidation](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;minimal-api-validation-with-fluentvalidation)**
 - **[Minimal API Route Handler Filters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;minimal-api-route-handler-filters)**
-- **[Five of the Most Common Kinds of NuGet Packages](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;five-of-the-most-common-kinds-of-nuget-packages)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
