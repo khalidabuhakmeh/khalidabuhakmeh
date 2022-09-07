@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Customize The Authorization Pipeline In ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;customize-the-authorization-pipeline-in-aspnet-core)**
 - **[Troubleshooting .NET Blazor WASM Debugging](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;troubleshooting-dotnet-blazor-wasm-debugging)**
 - **[Sharing Auth Cookies With YARP, IdentityServer, and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core)**
 - **[Using LINQ and Getting Chunky With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;getting-chunky-with-dotnet)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Taming Your .NET Twitter Bots With Rules](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;taming-your-dotnet-twitter-bots-with-rules)**
 - **[.NET Debugger.Launch for macOS and Linux](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-debugger-launch-for-macos-and-linux)**
 - **[Minimal API Validation with FluentValidation](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;minimal-api-validation-with-fluentvalidation)**
-- **[Minimal API Route Handler Filters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;minimal-api-route-handler-filters)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
