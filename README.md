@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[.NET Class Diagrams In JetBrains Rider with PlantUML](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-class-diagrams-in-jetbrains-rider-with-plantuml)**
 - **[Using XML Documentation With ASP.NET Core Minimal API Apps and OpenAPI](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-xml-documentation-with-aspnetcore-minimal-api-apps-and-openapi)**
 - **[Getting Started with EF Core, PostgreSQL, and TimescaleDB](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;getting-started-with-ef-core-postgresql-and-timescaledb)**
 - **[.NET One-line Scoped Initializers with Dependency Injection](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-one-line-scoped-initializers-with-dependency-injection)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Using LINQ and Getting Chunky With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;getting-chunky-with-dotnet)**
 - **[Fun With Custom Interpolated String Handlers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fun-with-custom-interpolated-string-handlers)**
 - **[C# Converting Bytes To Kilobytes and Beyond](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-converting-bytes-to-kb-mb-gb-and-tb)**
-- **[Installing and Uninstalling .NET Templates](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;installing-and-uninstalling-dotnet-templates)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
