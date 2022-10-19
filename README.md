@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Adding Experimental HTTP Methods To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-experimental-http-methods-to-aspnet-core)**
 - **[Add MS SQL Server JSON Support To Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-ms-sql-server-json-support-to-entity-framework-core)**
 - **[.NET Class Diagrams In JetBrains Rider with PlantUML](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-class-diagrams-in-jetbrains-rider-with-plantuml)**
 - **[Using XML Documentation With ASP.NET Core Minimal API Apps and OpenAPI](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-xml-documentation-with-aspnetcore-minimal-api-apps-and-openapi)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Troubleshooting .NET Blazor WASM Debugging](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;troubleshooting-dotnet-blazor-wasm-debugging)**
 - **[Sharing Auth Cookies With YARP, IdentityServer, and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core)**
 - **[Using LINQ and Getting Chunky With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;getting-chunky-with-dotnet)**
-- **[Fun With Custom Interpolated String Handlers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fun-with-custom-interpolated-string-handlers)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
