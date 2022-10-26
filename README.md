@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Real-time Charts with ASP.NET Core, SignalR, and Chart.js](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;real-time-charts-with-aspnet-core-signalr-and-chartjs)**
 - **[Adding Experimental HTTP Methods To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-experimental-http-methods-to-aspnet-core)**
 - **[Add MS SQL Server JSON Support To Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-ms-sql-server-json-support-to-entity-framework-core)**
 - **[.NET Class Diagrams In JetBrains Rider with PlantUML](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-class-diagrams-in-jetbrains-rider-with-plantuml)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Customize The Authorization Pipeline In ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;customize-the-authorization-pipeline-in-aspnet-core)**
 - **[Troubleshooting .NET Blazor WASM Debugging](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;troubleshooting-dotnet-blazor-wasm-debugging)**
 - **[Sharing Auth Cookies With YARP, IdentityServer, and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;sharing-auth-cookies-with-yarp-identityserver-and-aspnet-core)**
-- **[Using LINQ and Getting Chunky With .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;getting-chunky-with-dotnet)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
