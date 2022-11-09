@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Stop Entity Framework Core Performance Issues With Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;stop-entity-framework-core-performance-issues-with-interceptors)**
 - **[More Efficient Deletes With Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;more-efficient-deletes-with-entity-framework-core)**
 - **[Real-time Charts with ASP.NET Core, SignalR, and Chart.js](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;real-time-charts-with-aspnet-core-signalr-and-chartjs)**
 - **[Adding Experimental HTTP Methods To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-experimental-http-methods-to-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Getting Started with EF Core, PostgreSQL, and TimescaleDB](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;getting-started-with-ef-core-postgresql-and-timescaledb)**
 - **[.NET One-line Scoped Initializers with Dependency Injection](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-one-line-scoped-initializers-with-dependency-injection)**
 - **[Customize The Authorization Pipeline In ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;customize-the-authorization-pipeline-in-aspnet-core)**
-- **[Troubleshooting .NET Blazor WASM Debugging](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;troubleshooting-dotnet-blazor-wasm-debugging)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
