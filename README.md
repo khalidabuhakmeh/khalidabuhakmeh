@@ -73,7 +73,7 @@ Fun Facts:
 - I have **[KhalidForAmerica.com](https://khalidforamerica.com)** which points to my blog, and other domains.
 - I enjoy Synthwave music.
 
-If you would like to reach me, the best way is on Twitter via [@buhakmeh][twitter].
+If you would like to reach me, the best way is on Mastodon via [mastodon]: <a rel="me" href="https://mastodon.social/@khalidabuhakmeh">@khalidabuhakmeh</a>.
 
 [twitter]: https://twitter.com/buhakmeh
 [jetbrains]: https://jetbrains.com
