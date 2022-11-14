@@ -20,7 +20,7 @@
 
 ### Hi there 👋
 
-My name is Khalid Abuhakmeh ([@buhakmeh][twitter] on Twitter). These days I'm a developer advocate at [JetBrains][jetbrains] primarily focusing on [.NET][dotnet] technologies using tools like [Rider][rider] and [ReSharper][resharper]. I also create content for JetBrains at the [official blog][jb_blog].
+My name is Khalid Abuhakmeh ([@khalidbuhakmeh][mastodon] on Mastodon). These days I'm a developer advocate at [JetBrains][jetbrains] primarily focusing on [.NET][dotnet] technologies using tools like [Rider][rider] and [ReSharper][resharper]. I also create content for JetBrains at the [official blog][jb_blog].
 
 I'm also proud of my personal blog at [khalidabuhakmeh.com][blog], where I write mostly about .NET. My posts focus on learning in the open and try to help readers solve problems or grasp ideas. I'm on a tech journey and I hope you come along with me on the ride.
 
@@ -73,15 +73,16 @@ Fun Facts:
 - I have **[KhalidForAmerica.com](https://khalidforamerica.com)** which points to my blog, and other domains.
 - I enjoy Synthwave music.
 
-If you would like to reach me, the best way is on Mastodon via [mastodon]: <a rel="me" href="https://mastodon.social/@khalidabuhakmeh">@khalidabuhakmeh</a>.
+If you would like to reach me, the best way is on Mastodon via <a rel="me" href="https://mastodon.social/@khalidabuhakmeh">@khalidabuhakmeh</a>.
 
 [twitter]: https://twitter.com/buhakmeh
 [jetbrains]: https://jetbrains.com
 [rider]: https://jetbrains.com/rider
 [resharper]: https://jetbrains.com/resharper
 [blog]: https://khalidabuhakmeh.com
-[jb_blog]: https://blog.jetbrains.com/dotnet
+[jb_blog]: https://blog.jetbrains.com/dotnet                                                                            [mastodon]: https://mastodon.social/@khalidabuhakmeh
 [dotnet]: https://dot.net
+                                                                                                                       
 
 
 <p align="center">
