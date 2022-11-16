@@ -80,10 +80,9 @@ If you would like to reach me, the best way is on Mastodon via <a rel="me" href=
 [rider]: https://jetbrains.com/rider
 [resharper]: https://jetbrains.com/resharper
 [blog]: https://khalidabuhakmeh.com
-[jb_blog]: https://blog.jetbrains.com/dotnet                                                                            [mastodon]: https://mastodon.social/@khalidabuhakmeh
+[jb_blog]: https://blog.jetbrains.com/dotnet                                                                            
+[mastodon]: https://mastodon.social/@khalidabuhakmeh
 [dotnet]: https://dot.net
-                                                                                                                       
-
 
 <p align="center">
   <img alt="Visitor count" src="https://profile-counter.glitch.me/khalidabuhakmeh/count.svg" style="display: inline-block; margin: auto;" />  
