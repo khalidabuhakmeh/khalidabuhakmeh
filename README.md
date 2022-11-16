@@ -4,12 +4,12 @@
 
 <hr/>
 
-<div style="width:"100%; text-align:center">
+<div style="width:100%; text-align:center">
     <a href="https://khalidabuhakmeh.com" style="display: inline-block; margin: auto; width: 50px;">
       <img src="https://user-images.githubusercontent.com/228256/87049842-71345b80-c1cb-11ea-8a67-b002bcfde0a8.png" alt="abuhakmeh blog" width="32%" />
     </a>
-    <a href="https://twitter.com/buhakmeh" style="display: inline-block; margin: auto; width: 250px;">
-      <img src="https://user-images.githubusercontent.com/228256/87049848-72658880-c1cb-11ea-9adb-0fc1eabe9052.png" alt="twitter @buhakmeh" width="32%" />
+    <a href="https://mastodon.social/@khalidabuhakmeh" style="display: inline-block; margin: auto; width: 250px;">
+      <img src="https://user-images.githubusercontent.com/228256/202319948-7e8b7fe3-522c-436e-a1c2-4a37fb46ef7f.png" alt="Mastodon @khalidbuhakmeh@mastodon.social" width="32%" />
     </a>
     <a href="https://blog.jetbrains.com/dotnet" style="display: inline-block; margin: auto; width: 250px;">
       <img src="https://user-images.githubusercontent.com/228256/87049854-742f4c00-c1cb-11ea-891f-daea7cf57573.png" alt="jetbrains .NET Blog" width="32%" />
@@ -67,23 +67,22 @@ I have also contributed logos to multiple .NET ecosystem projects like [Marten](
 
 Fun Facts: 
 
-- My wife, [Nicole](https://twitter.com/nicoleabuhakmeh) and I love traveling.
+- My wife, Nicole and I love traveling.
 - I'm currently trying to learn Japanese. おはようございます。(Good Morning!).
 - I have two dogs named Samson and Guinness
 - I have **[KhalidForAmerica.com](https://khalidforamerica.com)** which points to my blog, and other domains.
-- I enjoy Synthwave music.
+- I enjoy Synth-wave music.
 
-If you would like to reach me, the best way is on Mastodon via <a rel="me" href="https://mastodon.social/@khalidabuhakmeh">@khalidabuhakmeh</a>.
+If you would like to reach me, the best way is on Mastodon via <a rel="me" href="https://mastodon.social/@khalidabuhakmeh">@khalidabuhakmeh@mastodon.social</a>.
 
 [twitter]: https://twitter.com/buhakmeh
 [jetbrains]: https://jetbrains.com
 [rider]: https://jetbrains.com/rider
 [resharper]: https://jetbrains.com/resharper
 [blog]: https://khalidabuhakmeh.com
-[jb_blog]: https://blog.jetbrains.com/dotnet                                                                            [mastodon]: https://mastodon.social/@khalidabuhakmeh
+[jb_blog]: https://blog.jetbrains.com/dotnet                                                                            
+[mastodon]: https://mastodon.social/@khalidabuhakmeh
 [dotnet]: https://dot.net
-                                                                                                                       
-
 
 <p align="center">
   <img alt="Visitor count" src="https://profile-counter.glitch.me/khalidabuhakmeh/count.svg" style="display: inline-block; margin: auto;" />  
