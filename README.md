@@ -67,22 +67,23 @@ I have also contributed logos to multiple .NET ecosystem projects like [Marten](
 
 Fun Facts: 
 
-- My wife, Nicole and I love traveling.
+- My wife, [Nicole](https://twitter.com/nicoleabuhakmeh) and I love traveling.
 - I'm currently trying to learn Japanese. おはようございます。(Good Morning!).
 - I have two dogs named Samson and Guinness
 - I have **[KhalidForAmerica.com](https://khalidforamerica.com)** which points to my blog, and other domains.
-- I enjoy Synth-wave music.
+- I enjoy Synthwave music.
 
-If you would like to reach me, the best way is on Mastodon via <a rel="me" href="https://mastodon.social/@khalidabuhakmeh">@khalidabuhakmeh@mastodon.social</a>.
+If you would like to reach me, the best way is on Mastodon via <a rel="me" href="https://mastodon.social/@khalidabuhakmeh">@khalidabuhakmeh</a>.
 
 [twitter]: https://twitter.com/buhakmeh
 [jetbrains]: https://jetbrains.com
 [rider]: https://jetbrains.com/rider
 [resharper]: https://jetbrains.com/resharper
 [blog]: https://khalidabuhakmeh.com
-[jb_blog]: https://blog.jetbrains.com/dotnet                                                                            
-[mastodon]: https://mastodon.social/@khalidabuhakmeh
+[jb_blog]: https://blog.jetbrains.com/dotnet                                                                            [mastodon]: https://mastodon.social/@khalidabuhakmeh
 [dotnet]: https://dot.net
+                                                                                                                       
+
 
 <p align="center">
   <img alt="Visitor count" src="https://profile-counter.glitch.me/khalidabuhakmeh/count.svg" style="display: inline-block; margin: auto;" />  
