@@ -8,7 +8,7 @@
     <a href="https://khalidabuhakmeh.com" style="display: inline-block; margin: auto; width: 50px;">
       <img src="https://user-images.githubusercontent.com/228256/87049842-71345b80-c1cb-11ea-8a67-b002bcfde0a8.png" alt="abuhakmeh blog" width="32%" />
     </a>
-    <a href="https://mastodon.social/@khalidabuhakmeh" style="display: inline-block; margin: auto; width: 250px;">
+    <a rel="me" href="https://mastodon.social/@khalidabuhakmeh" style="display: inline-block; margin: auto; width: 250px;">
       <img src="https://user-images.githubusercontent.com/228256/202319948-7e8b7fe3-522c-436e-a1c2-4a37fb46ef7f.png" alt="Mastodon @khalidbuhakmeh@mastodon.social" width="32%" />
     </a>
     <a href="https://blog.jetbrains.com/dotnet" style="display: inline-block; margin: auto; width: 250px;">
