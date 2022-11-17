@@ -9,7 +9,7 @@
       <img src="https://user-images.githubusercontent.com/228256/87049842-71345b80-c1cb-11ea-8a67-b002bcfde0a8.png" alt="abuhakmeh blog" width="32%" />
     </a>
     <a rel="nofollow me" href="https://mastodon.social/@khalidabuhakmeh" style="display: inline-block; margin: auto; width: 250px;">
-      <img src="https://user-images.githubusercontent.com/228256/202319948-7e8b7fe3-522c-436e-a1c2-4a37fb46ef7f.png" alt="Mastodon @khalidbuhakmeh@mastodon.social" width="32%" />
+      <img src="https://user-images.githubusercontent.com/228256/202323215-d24ac2ad-9496-4bd8-ad40-6cff32fc4867.png" alt="Mastodon @khalidbuhakmeh@mastodon.social" width="32%" />
     </a>
     <a href="https://blog.jetbrains.com/dotnet" style="display: inline-block; margin: auto; width: 250px;">
       <img src="https://user-images.githubusercontent.com/228256/87049854-742f4c00-c1cb-11ea-891f-daea7cf57573.png" alt="jetbrains .NET Blog" width="32%" />
