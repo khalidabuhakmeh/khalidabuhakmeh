@@ -34,16 +34,16 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Entity Framework Core Conversions for Logical Domain Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-conversions-for-logical-domain-types)**
+- **[Consuming .NET WebAssembly From JavaScript in the Browser](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;consuming-dotnet-webassembly-from-javascript-in-the-browser)**
+- **[Fibonacci Sequences with Kotlin, C#, and F#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fibonacci-sequences-with-kotlin-csharp-and-fsharp)**
+- **[How Many Threads Does My .NET App Have?](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-many-threads-does-my-dotnet-app-have)**
+- **[ASP.NET Core Placeholder Images with ImageSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-placeholder-images-with-imagesharp)**
 - **[Stop Entity Framework Core Performance Issues With Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;stop-entity-framework-core-performance-issues-with-interceptors)**
 - **[More Efficient Deletes With Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;more-efficient-deletes-with-entity-framework-core)**
 - **[Real-time Charts with ASP.NET Core, SignalR, and Chart.js](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;real-time-charts-with-aspnet-core-signalr-and-chartjs)**
 - **[Adding Experimental HTTP Methods To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-experimental-http-methods-to-aspnet-core)**
 - **[Add MS SQL Server JSON Support To Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-ms-sql-server-json-support-to-entity-framework-core)**
-- **[.NET Class Diagrams In JetBrains Rider with PlantUML](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-class-diagrams-in-jetbrains-rider-with-plantuml)**
-- **[Using XML Documentation With ASP.NET Core Minimal API Apps and OpenAPI](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-xml-documentation-with-aspnetcore-minimal-api-apps-and-openapi)**
-- **[Getting Started with EF Core, PostgreSQL, and TimescaleDB](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;getting-started-with-ef-core-postgresql-and-timescaledb)**
-- **[.NET One-line Scoped Initializers with Dependency Injection](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-one-line-scoped-initializers-with-dependency-injection)**
-- **[Customize The Authorization Pipeline In ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;customize-the-authorization-pipeline-in-aspnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
