@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[ASP.NET Core Display Description Tag Helper](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-display-description-tag-helper)**
 - **[Entity Framework Core Conversions for Logical Domain Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-conversions-for-logical-domain-types)**
 - **[Consuming .NET WebAssembly From JavaScript in the Browser](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;consuming-dotnet-webassembly-from-javascript-in-the-browser)**
 - **[Fibonacci Sequences with Kotlin, C#, and F#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fibonacci-sequences-with-kotlin-csharp-and-fsharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[More Efficient Deletes With Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;more-efficient-deletes-with-entity-framework-core)**
 - **[Real-time Charts with ASP.NET Core, SignalR, and Chart.js](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;real-time-charts-with-aspnet-core-signalr-and-chartjs)**
 - **[Adding Experimental HTTP Methods To ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-experimental-http-methods-to-aspnet-core)**
-- **[Add MS SQL Server JSON Support To Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-ms-sql-server-json-support-to-entity-framework-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
