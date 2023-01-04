@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Testing ASP.NET Core FastEndpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-aspnet-core-fastendpoints)**
 - **[Generate YouTube Timestamp Links with C# 11](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-youtube-timestamp-links-with-csharp-11)**
 - **[ASP.NET Core Display Description Tag Helper](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-display-description-tag-helper)**
 - **[Entity Framework Core Conversions for Logical Domain Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-conversions-for-logical-domain-types)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[ASP.NET Core Placeholder Images with ImageSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-placeholder-images-with-imagesharp)**
 - **[Stop Entity Framework Core Performance Issues With Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;stop-entity-framework-core-performance-issues-with-interceptors)**
 - **[More Efficient Deletes With Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;more-efficient-deletes-with-entity-framework-core)**
-- **[Real-time Charts with ASP.NET Core, SignalR, and Chart.js](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;real-time-charts-with-aspnet-core-signalr-and-chartjs)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
