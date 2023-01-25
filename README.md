@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Programming SVGs with C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;programming-svgs-with-csharp-dotnet)**
 - **[Multiple File Drag and Drop Upload with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;multiple-file-drag-and-drop-upload-with-aspnet-core)**
 - **[Deserialize Mastodon User XML RSS feeds with .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;deserialize-mastodon-user-xml-rss-feed)**
 - **[Testing ASP.NET Core FastEndpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-aspnet-core-fastendpoints)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Consuming .NET WebAssembly From JavaScript in the Browser](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;consuming-dotnet-webassembly-from-javascript-in-the-browser)**
 - **[Fibonacci Sequences with Kotlin, C#, and F#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fibonacci-sequences-with-kotlin-csharp-and-fsharp)**
 - **[How Many Threads Does My .NET App Have?](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-many-threads-does-my-dotnet-app-have)**
-- **[ASP.NET Core Placeholder Images with ImageSharp](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-placeholder-images-with-imagesharp)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
