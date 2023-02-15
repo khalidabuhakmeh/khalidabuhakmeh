@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generating-bogus-http-endpoints-with-aspnet-core-minimal-apis)**
 - **[How to use Entity Framework Core in ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-entity-framework-core-in-aspnet-core)**
 - **[Register MAUI Views and ViewModels with Scrutor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;register-maui-views-and-viewmodels-with-scrutor)**
 - **[Programming SVGs with C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;programming-svgs-with-csharp-dotnet)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Generate YouTube Timestamp Links with C# 11](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-youtube-timestamp-links-with-csharp-11)**
 - **[ASP.NET Core Display Description Tag Helper](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-display-description-tag-helper)**
 - **[Entity Framework Core Conversions for Logical Domain Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-conversions-for-logical-domain-types)**
-- **[Consuming .NET WebAssembly From JavaScript in the Browser](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;consuming-dotnet-webassembly-from-javascript-in-the-browser)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
