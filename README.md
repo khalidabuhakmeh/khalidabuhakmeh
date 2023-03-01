@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Speed Up ASP.NET Core JSON APIs with Source Generators](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;speed-up-aspnet-core-json-apis-with-source-generators)**
 - **[Combining 11ty Static Site Generator with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;combining-11ty-static-site-generator-with-aspnet-core)**
 - **[Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generating-bogus-http-endpoints-with-aspnet-core-minimal-apis)**
 - **[How to use Entity Framework Core in ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-entity-framework-core-in-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Deserialize Mastodon User XML RSS feeds with .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;deserialize-mastodon-user-xml-rss-feed)**
 - **[Testing ASP.NET Core FastEndpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-aspnet-core-fastendpoints)**
 - **[Generate YouTube Timestamp Links with C# 11](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-youtube-timestamp-links-with-csharp-11)**
-- **[ASP.NET Core Display Description Tag Helper](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-display-description-tag-helper)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
