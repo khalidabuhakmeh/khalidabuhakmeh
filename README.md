@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Validating Connection Strings on .NET Startup](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;validating-connection-strings-on-dotnet-startup)**
 - **[Speed Up ASP.NET Core JSON APIs with Source Generators](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;speed-up-aspnet-core-json-apis-with-source-generators)**
 - **[Combining 11ty Static Site Generator with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;combining-11ty-static-site-generator-with-aspnet-core)**
 - **[Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generating-bogus-http-endpoints-with-aspnet-core-minimal-apis)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Multiple File Drag and Drop Upload with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;multiple-file-drag-and-drop-upload-with-aspnet-core)**
 - **[Deserialize Mastodon User XML RSS feeds with .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;deserialize-mastodon-user-xml-rss-feed)**
 - **[Testing ASP.NET Core FastEndpoints](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-aspnet-core-fastendpoints)**
-- **[Generate YouTube Timestamp Links with C# 11](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-youtube-timestamp-links-with-csharp-11)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
