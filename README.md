@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[.NET MAUI Development Environment Set Up Walkthrough](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-development-environment-set-up-walkthrough)**
 - **[Solving .NET JSON Deserialization Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solving-dotnet-json-deserialization-issues)**
 - **[Validating Connection Strings on .NET Startup](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;validating-connection-strings-on-dotnet-startup)**
 - **[Speed Up ASP.NET Core JSON APIs with Source Generators](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;speed-up-aspnet-core-json-apis-with-source-generators)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Register MAUI Views and ViewModels with Scrutor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;register-maui-views-and-viewmodels-with-scrutor)**
 - **[Programming SVGs with C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;programming-svgs-with-csharp-dotnet)**
 - **[Multiple File Drag and Drop Upload with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;multiple-file-drag-and-drop-upload-with-aspnet-core)**
-- **[Deserialize Mastodon User XML RSS feeds with .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;deserialize-mastodon-user-xml-rss-feed)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
