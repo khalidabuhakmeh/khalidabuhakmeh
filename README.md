@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Load YouTube Embed Videos When Needed With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;load-youtube-embed-videos-with-javascript)**
 - **[.NET MAUI App Stopped Working -- HELP!](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-app-stopped-working-help)**
 - **[.NET MAUI Development Environment Set Up Walkthrough](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-development-environment-set-up-walkthrough)**
 - **[Solving .NET JSON Deserialization Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solving-dotnet-json-deserialization-issues)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generating-bogus-http-endpoints-with-aspnet-core-minimal-apis)**
 - **[How to use Entity Framework Core in ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-entity-framework-core-in-aspnet-core)**
 - **[Register MAUI Views and ViewModels with Scrutor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;register-maui-views-and-viewmodels-with-scrutor)**
-- **[Programming SVGs with C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;programming-svgs-with-csharp-dotnet)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
