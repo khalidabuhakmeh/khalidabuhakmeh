@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Dependency Injection with Avalonia UI Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dependency-injection-with-avalonia-ui-apps)**
 - **[Load YouTube Embed Videos When Needed With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;load-youtube-embed-videos-with-javascript)**
 - **[.NET MAUI App Stopped Working -- HELP!](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-app-stopped-working-help)**
 - **[.NET MAUI Development Environment Set Up Walkthrough](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-development-environment-set-up-walkthrough)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Combining 11ty Static Site Generator with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;combining-11ty-static-site-generator-with-aspnet-core)**
 - **[Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generating-bogus-http-endpoints-with-aspnet-core-minimal-apis)**
 - **[How to use Entity Framework Core in ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-entity-framework-core-in-aspnet-core)**
-- **[Register MAUI Views and ViewModels with Scrutor](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;register-maui-views-and-viewmodels-with-scrutor)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
