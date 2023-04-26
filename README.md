@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Unit Test 11ty Pages With Vitest and Typescript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-test-11ty-pages-with-vitest-and-typescript)**
 - **[Writing a Cross-Platform Clock App With Avalonia UI and NXUI](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;writing-a-cross-platform-clock-app-with-avalonia-ui-and-nxui)**
 - **[Dependency Injection with Avalonia UI Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dependency-injection-with-avalonia-ui-apps)**
 - **[Load YouTube Embed Videos When Needed With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;load-youtube-embed-videos-with-javascript)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Validating Connection Strings on .NET Startup](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;validating-connection-strings-on-dotnet-startup)**
 - **[Speed Up ASP.NET Core JSON APIs with Source Generators](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;speed-up-aspnet-core-json-apis-with-source-generators)**
 - **[Combining 11ty Static Site Generator with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;combining-11ty-static-site-generator-with-aspnet-core)**
-- **[Generating Bogus HTTP Endpoints with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generating-bogus-http-endpoints-with-aspnet-core-minimal-apis)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
