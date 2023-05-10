@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Manage Vite Assets Like A Pro](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;manage-vite-assets-like-a-pro)**
 - **[Running Vite with ASP.NET Core Web Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-vite-with-aspnet-core-web-applications)**
 - **[Unit Test 11ty Pages With Vitest and Typescript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-test-11ty-pages-with-vitest-and-typescript)**
 - **[Writing a Cross-Platform Clock App With Avalonia UI and NXUI](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;writing-a-cross-platform-clock-app-with-avalonia-ui-and-nxui)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[.NET MAUI Development Environment Set Up Walkthrough](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-development-environment-set-up-walkthrough)**
 - **[Solving .NET JSON Deserialization Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solving-dotnet-json-deserialization-issues)**
 - **[Validating Connection Strings on .NET Startup](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;validating-connection-strings-on-dotnet-startup)**
-- **[Speed Up ASP.NET Core JSON APIs with Source Generators](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;speed-up-aspnet-core-json-apis-with-source-generators)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
