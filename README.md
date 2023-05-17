@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Override Razor Pages Routes From Razor Class Libraries](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;override-razor-pages-routes-from-razor-class-libraries)**
 - **[Manage Vite Assets Like A Pro](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;manage-vite-assets-like-a-pro)**
 - **[Running Vite with ASP.NET Core Web Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-vite-with-aspnet-core-web-applications)**
 - **[Unit Test 11ty Pages With Vitest and Typescript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-test-11ty-pages-with-vitest-and-typescript)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[.NET MAUI App Stopped Working -- HELP!](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-app-stopped-working-help)**
 - **[.NET MAUI Development Environment Set Up Walkthrough](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-development-environment-set-up-walkthrough)**
 - **[Solving .NET JSON Deserialization Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solving-dotnet-json-deserialization-issues)**
-- **[Validating Connection Strings on .NET Startup](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;validating-connection-strings-on-dotnet-startup)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
