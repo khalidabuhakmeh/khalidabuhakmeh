@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[XUnit Tests, JetBrains Rider, and Counting Until Failure](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;xunit-tests-jetbrains-rider-and-counting-until-failure)**
 - **[Override Razor Pages Routes From Razor Class Libraries](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;override-razor-pages-routes-from-razor-class-libraries)**
 - **[Manage Vite Assets Like A Pro](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;manage-vite-assets-like-a-pro)**
 - **[Running Vite with ASP.NET Core Web Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-vite-with-aspnet-core-web-applications)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Load YouTube Embed Videos When Needed With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;load-youtube-embed-videos-with-javascript)**
 - **[.NET MAUI App Stopped Working -- HELP!](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-app-stopped-working-help)**
 - **[.NET MAUI Development Environment Set Up Walkthrough](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-development-environment-set-up-walkthrough)**
-- **[Solving .NET JSON Deserialization Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;solving-dotnet-json-deserialization-issues)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
