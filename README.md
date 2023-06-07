@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Entity Framework Core 7: Filtering on JSON Arrays](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-7-filtering-on-json-arrays)**
 - **[JavaScript Import Maps For ASP.NET Core Developers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;javascript-import-maps-for-aspnet-core-developers)**
 - **[XUnit Tests, JetBrains Rider, and Counting Until Failure](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;xunit-tests-jetbrains-rider-and-counting-until-failure)**
 - **[Override Razor Pages Routes From Razor Class Libraries](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;override-razor-pages-routes-from-razor-class-libraries)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Writing a Cross-Platform Clock App With Avalonia UI and NXUI](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;writing-a-cross-platform-clock-app-with-avalonia-ui-and-nxui)**
 - **[Dependency Injection with Avalonia UI Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dependency-injection-with-avalonia-ui-apps)**
 - **[Load YouTube Embed Videos When Needed With JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;load-youtube-embed-videos-with-javascript)**
-- **[.NET MAUI App Stopped Working -- HELP!](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-maui-app-stopped-working-help)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
