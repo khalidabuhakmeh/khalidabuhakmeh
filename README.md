@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Using StringBuilder To Replace Values](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-stringbuilder-to-replace-values)**
 - **[The Privilege of .NET Tooling Choices](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-privilege-of-dotnet-tooling-choices)**
 - **[Entity Framework Core 7: Filtering on JSON Arrays](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-7-filtering-on-json-arrays)**
 - **[JavaScript Import Maps For ASP.NET Core Developers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;javascript-import-maps-for-aspnet-core-developers)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Running Vite with ASP.NET Core Web Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-vite-with-aspnet-core-web-applications)**
 - **[Unit Test 11ty Pages With Vitest and Typescript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-test-11ty-pages-with-vitest-and-typescript)**
 - **[Writing a Cross-Platform Clock App With Avalonia UI and NXUI](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;writing-a-cross-platform-clock-app-with-avalonia-ui-and-nxui)**
-- **[Dependency Injection with Avalonia UI Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dependency-injection-with-avalonia-ui-apps)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
