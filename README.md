@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[HTMX Boosts and ASP.NET Core Anti-Forgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-boosts-and-aspnet-core-anti-forgery-tokens)**
 - **[Using StringBuilder To Replace Values](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-stringbuilder-to-replace-values)**
 - **[The Privilege of .NET Tooling Choices](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-privilege-of-dotnet-tooling-choices)**
 - **[Entity Framework Core 7: Filtering on JSON Arrays](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-7-filtering-on-json-arrays)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Manage Vite Assets Like A Pro](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;manage-vite-assets-like-a-pro)**
 - **[Running Vite with ASP.NET Core Web Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-vite-with-aspnet-core-web-applications)**
 - **[Unit Test 11ty Pages With Vitest and Typescript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-test-11ty-pages-with-vitest-and-typescript)**
-- **[Writing a Cross-Platform Clock App With Avalonia UI and NXUI](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;writing-a-cross-platform-clock-app-with-avalonia-ui-and-nxui)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
