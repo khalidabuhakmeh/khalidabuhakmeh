@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Adding a Readme to NuGet Package Landing Pages](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-a-readme-to-nuget-package-landing-pages)**
 - **[HTMX Boosts and ASP.NET Core Anti-Forgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-boosts-and-aspnet-core-anti-forgery-tokens)**
 - **[Using StringBuilder To Replace Values](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-stringbuilder-to-replace-values)**
 - **[The Privilege of .NET Tooling Choices](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-privilege-of-dotnet-tooling-choices)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Override Razor Pages Routes From Razor Class Libraries](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;override-razor-pages-routes-from-razor-class-libraries)**
 - **[Manage Vite Assets Like A Pro](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;manage-vite-assets-like-a-pro)**
 - **[Running Vite with ASP.NET Core Web Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;running-vite-with-aspnet-core-web-applications)**
-- **[Unit Test 11ty Pages With Vitest and Typescript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;unit-test-11ty-pages-with-vitest-and-typescript)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
