@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[.NET 8 TimeProvider and Unit Tests](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-8-timeprovider-and-unit-tests)**
 - **[C# Records, the With Keyword, and Reference Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-records-the-with-keyword-and-reference-types)**
 - **[HTMX, ASP.NET Core, and Bootstrap Modals](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-aspnet-core-and-bootstrap-modals)**
 - **[Adding a Readme to NuGet Package Landing Pages](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-a-readme-to-nuget-package-landing-pages)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Entity Framework Core 7: Filtering on JSON Arrays](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-7-filtering-on-json-arrays)**
 - **[JavaScript Import Maps For ASP.NET Core Developers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;javascript-import-maps-for-aspnet-core-developers)**
 - **[XUnit Tests, JetBrains Rider, and Counting Until Failure](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;xunit-tests-jetbrains-rider-and-counting-until-failure)**
-- **[Override Razor Pages Routes From Razor Class Libraries](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;override-razor-pages-routes-from-razor-class-libraries)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
