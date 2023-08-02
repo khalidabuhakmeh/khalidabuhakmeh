@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Generate Sitemaps for All of ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-sitemaps-for-all-of-aspnet-core)**
 - **[.NET 8 TimeProvider and Unit Tests](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-8-timeprovider-and-unit-tests)**
 - **[C# Records, the With Keyword, and Reference Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-records-the-with-keyword-and-reference-types)**
 - **[HTMX, ASP.NET Core, and Bootstrap Modals](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-aspnet-core-and-bootstrap-modals)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[The Privilege of .NET Tooling Choices](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-privilege-of-dotnet-tooling-choices)**
 - **[Entity Framework Core 7: Filtering on JSON Arrays](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-7-filtering-on-json-arrays)**
 - **[JavaScript Import Maps For ASP.NET Core Developers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;javascript-import-maps-for-aspnet-core-developers)**
-- **[XUnit Tests, JetBrains Rider, and Counting Until Failure](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;xunit-tests-jetbrains-rider-and-counting-until-failure)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
