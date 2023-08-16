@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Sisk - An Alternative .NET HTTP Server](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;sisk-an-alternative-dotnet-http-server)**
 - **[.NET 8 Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-8-interceptors)**
 - **[Generate Sitemaps for All of ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-sitemaps-for-all-of-aspnet-core)**
 - **[.NET 8 TimeProvider and Unit Tests](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-8-timeprovider-and-unit-tests)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[HTMX Boosts and ASP.NET Core Anti-Forgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-boosts-and-aspnet-core-anti-forgery-tokens)**
 - **[Using StringBuilder To Replace Values](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-stringbuilder-to-replace-values)**
 - **[The Privilege of .NET Tooling Choices](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-privilege-of-dotnet-tooling-choices)**
-- **[Entity Framework Core 7: Filtering on JSON Arrays](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;entity-framework-core-7-filtering-on-json-arrays)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
