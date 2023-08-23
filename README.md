@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[MiniWord - Microsoft Office Word Templating](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;miniword-microsoft-office-word-templating)**
 - **[Sisk - An Alternative .NET HTTP Server](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;sisk-an-alternative-dotnet-http-server)**
 - **[.NET 8 Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-8-interceptors)**
 - **[Generate Sitemaps for All of ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-sitemaps-for-all-of-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Adding a Readme to NuGet Package Landing Pages](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;adding-a-readme-to-nuget-package-landing-pages)**
 - **[HTMX Boosts and ASP.NET Core Anti-Forgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-boosts-and-aspnet-core-anti-forgery-tokens)**
 - **[Using StringBuilder To Replace Values](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;using-stringbuilder-to-replace-values)**
-- **[The Privilege of .NET Tooling Choices](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-privilege-of-dotnet-tooling-choices)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
