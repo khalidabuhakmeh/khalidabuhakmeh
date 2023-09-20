@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[System.Text.Json JsonConverter Test Helpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;systemtextjson-jsonconverter-test-helpers)**
 - **[Dumb Developer Tricks - Fizz Buzz with C# 12 and Polly](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dumb-developer-tricks-fizz-buzz-with-csharp-12-and-polly)**
 - **[Multi-tenancy with ASP.NET Core and FinBuckle.Multitenant](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;multi-tenancy-with-aspnet-core-and-finbuckle-multitenant)**
 - **[Measuring Unicode String Lengths with C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;measuring-unicode-string-lengths-with-csharp)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Generate Sitemaps for All of ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-sitemaps-for-all-of-aspnet-core)**
 - **[.NET 8 TimeProvider and Unit Tests](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-8-timeprovider-and-unit-tests)**
 - **[C# Records, the With Keyword, and Reference Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-records-the-with-keyword-and-reference-types)**
-- **[HTMX, ASP.NET Core, and Bootstrap Modals](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-aspnet-core-and-bootstrap-modals)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
