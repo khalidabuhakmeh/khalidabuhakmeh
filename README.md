@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[How To Fix Feature Folders View Errors with JetBrains Annotations (Rider and ReSharper)](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-fix-feature-folders-view-errors-with-jetbrains-annotations-rider-and-resharper)**
 - **[System.Text.Json JsonConverter Test Helpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;systemtextjson-jsonconverter-test-helpers)**
 - **[Dumb Developer Tricks - Fizz Buzz with C# 12 and Polly](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dumb-developer-tricks-fizz-buzz-with-csharp-12-and-polly)**
 - **[Multi-tenancy with ASP.NET Core and FinBuckle.Multitenant](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;multi-tenancy-with-aspnet-core-and-finbuckle-multitenant)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[.NET 8 Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-8-interceptors)**
 - **[Generate Sitemaps for All of ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generate-sitemaps-for-all-of-aspnet-core)**
 - **[.NET 8 TimeProvider and Unit Tests](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-8-timeprovider-and-unit-tests)**
-- **[C# Records, the With Keyword, and Reference Types](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;csharp-records-the-with-keyword-and-reference-types)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
