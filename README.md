@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[RazorSlices - Razor Views with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;razorslices-razor-views-with-aspnet-core-minimal-apis)**
 - **[How To Use Embedded Resources in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-embedded-resources-in-dotnet)**
 - **[How To Display .NET Collections with the Oxford Comma](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-display-dotnet-collections-with-the-oxford-comma)**
 - **[How To Fix Feature Folders View Errors with JetBrains Annotations (Rider and ReSharper)](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-fix-feature-folders-view-errors-with-jetbrains-annotations-rider-and-resharper)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Measuring Unicode String Lengths with C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;measuring-unicode-string-lengths-with-csharp)**
 - **[MiniWord - Microsoft Office Word Templating](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;miniword-microsoft-office-word-templating)**
 - **[Sisk - An Alternative .NET HTTP Server](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;sisk-an-alternative-dotnet-http-server)**
-- **[.NET 8 Interceptors](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-8-interceptors)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
