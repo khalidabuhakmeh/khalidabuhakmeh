@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Global Endpoint Filters with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;global-endpoint-filters-with-aspnet-core-minimal-apis)**
 - **[RazorSlices - Razor Views with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;razorslices-razor-views-with-aspnet-core-minimal-apis)**
 - **[How To Use Embedded Resources in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-embedded-resources-in-dotnet)**
 - **[How To Display .NET Collections with the Oxford Comma](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-display-dotnet-collections-with-the-oxford-comma)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Multi-tenancy with ASP.NET Core and FinBuckle.Multitenant](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;multi-tenancy-with-aspnet-core-and-finbuckle-multitenant)**
 - **[Measuring Unicode String Lengths with C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;measuring-unicode-string-lengths-with-csharp)**
 - **[MiniWord - Microsoft Office Word Templating](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;miniword-microsoft-office-word-templating)**
-- **[Sisk - An Alternative .NET HTTP Server](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;sisk-an-alternative-dotnet-http-server)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
