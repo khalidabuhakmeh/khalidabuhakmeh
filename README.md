@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[VestPocket: File-based Data Storage for AOT .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;vestpocket-file-based-data-storage-for-aot-dotnet-applications)**
 - **[MoonSharp - Running Lua Scripts in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;moonsharp-running-lua-scripts-in-dotnet)**
 - **[What Should I Dispose with .NET Database Connections?](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-should-i-dispose-with-dotnet-database-connections)**
 - **[Global Endpoint Filters with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;global-endpoint-filters-with-aspnet-core-minimal-apis)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[How To Fix Feature Folders View Errors with JetBrains Annotations (Rider and ReSharper)](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-fix-feature-folders-view-errors-with-jetbrains-annotations-rider-and-resharper)**
 - **[System.Text.Json JsonConverter Test Helpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;systemtextjson-jsonconverter-test-helpers)**
 - **[Dumb Developer Tricks - Fizz Buzz with C# 12 and Polly](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dumb-developer-tricks-fizz-buzz-with-csharp-12-and-polly)**
-- **[Multi-tenancy with ASP.NET Core and FinBuckle.Multitenant](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;multi-tenancy-with-aspnet-core-and-finbuckle-multitenant)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
