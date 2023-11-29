@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Scriban for Text and Liquid Templating in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;scriban-for-text-and-liquid-templating-in-dotnet)**
 - **[ASP.NET Core PDF Previews and Downloads](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-pdf-previews-and-downloads)**
 - **[VestPocket: File-based Data Storage for AOT .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;vestpocket-file-based-data-storage-for-aot-dotnet-applications)**
 - **[MoonSharp - Running Lua Scripts in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;moonsharp-running-lua-scripts-in-dotnet)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[How To Use Embedded Resources in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-embedded-resources-in-dotnet)**
 - **[How To Display .NET Collections with the Oxford Comma](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-display-dotnet-collections-with-the-oxford-comma)**
 - **[How To Fix Feature Folders View Errors with JetBrains Annotations (Rider and ReSharper)](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-fix-feature-folders-view-errors-with-jetbrains-annotations-rider-and-resharper)**
-- **[System.Text.Json JsonConverter Test Helpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;systemtextjson-jsonconverter-test-helpers)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
