@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Testing Typesense search with Testcontainers and .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-typesense-search-with-testcontainers-and-dotnet)**
 - **[How to use Regular Expressions and Match Evaluators in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-regular-expressions-and-match-evaluators-in-dotnet)**
 - **[Scriban for Text and Liquid Templating in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;scriban-for-text-and-liquid-templating-in-dotnet)**
 - **[ASP.NET Core PDF Previews and Downloads](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-pdf-previews-and-downloads)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Global Endpoint Filters with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;global-endpoint-filters-with-aspnet-core-minimal-apis)**
 - **[RazorSlices - Razor Views with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;razorslices-razor-views-with-aspnet-core-minimal-apis)**
 - **[How To Use Embedded Resources in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-embedded-resources-in-dotnet)**
-- **[How To Display .NET Collections with the Oxford Comma](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-display-dotnet-collections-with-the-oxford-comma)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
