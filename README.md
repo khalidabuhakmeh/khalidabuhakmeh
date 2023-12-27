@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Faster .NET Database Integration Tests with Respawn and xUnit](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;faster-dotnet-database-integration-tests-with-respawn-and-xunit)**
 - **[MemoizR - Declarative Structured Concurrency for C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;memoizr-declarative-structured-concurrency-for-csharp)**
 - **[Testing Typesense search with Testcontainers and .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-typesense-search-with-testcontainers-and-dotnet)**
 - **[How to use Regular Expressions and Match Evaluators in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-regular-expressions-and-match-evaluators-in-dotnet)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[MoonSharp - Running Lua Scripts in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;moonsharp-running-lua-scripts-in-dotnet)**
 - **[What Should I Dispose with .NET Database Connections?](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-should-i-dispose-with-dotnet-database-connections)**
 - **[Global Endpoint Filters with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;global-endpoint-filters-with-aspnet-core-minimal-apis)**
-- **[RazorSlices - Razor Views with ASP.NET Core Minimal APIs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;razorslices-razor-views-with-aspnet-core-minimal-apis)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
