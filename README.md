@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[How to use IAsyncEnumerable with Blazor Stream Rendering](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-iasyncenumerable-with-blazor-stream-rendering)**
 - **[View Transitions API with ASP.NET Core and HTMX](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;view-transitions-api-with-aspnet-core-and-htmx)**
 - **[How to Write a .NET Markdig Extension for Markdown Processing](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-write-a-dotnet-markdig-extension-for-markdown-processing)**
 - **[Faster .NET Database Integration Tests with Respawn and xUnit](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;faster-dotnet-database-integration-tests-with-respawn-and-xunit)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Scriban for Text and Liquid Templating in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;scriban-for-text-and-liquid-templating-in-dotnet)**
 - **[ASP.NET Core PDF Previews and Downloads](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-pdf-previews-and-downloads)**
 - **[VestPocket: File-based Data Storage for AOT .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;vestpocket-file-based-data-storage-for-aot-dotnet-applications)**
-- **[MoonSharp - Running Lua Scripts in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;moonsharp-running-lua-scripts-in-dotnet)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
