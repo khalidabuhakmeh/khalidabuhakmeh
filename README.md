@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[.NET Tasks, List&#39;s ForEach, and Problems](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-tasks-lists-foreach-and-problems)**
 - **[How To Use Blazor Server-Rendered Components with HTMX](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-blazor-server-rendered-components-with-htmx)**
 - **[How to use IAsyncEnumerable with Blazor Stream Rendering](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-iasyncenumerable-with-blazor-stream-rendering)**
 - **[View Transitions API with ASP.NET Core and HTMX](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;view-transitions-api-with-aspnet-core-and-htmx)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Testing Typesense search with Testcontainers and .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-typesense-search-with-testcontainers-and-dotnet)**
 - **[How to use Regular Expressions and Match Evaluators in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-regular-expressions-and-match-evaluators-in-dotnet)**
 - **[Scriban for Text and Liquid Templating in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;scriban-for-text-and-liquid-templating-in-dotnet)**
-- **[ASP.NET Core PDF Previews and Downloads](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-pdf-previews-and-downloads)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
