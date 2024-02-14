@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Increase Performance with Complex Types in Entity Framework Core 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;increase-performance-with-complex-types-in-entity-framework-core-8)**
 - **[HTML Web Components with Vanilla JavaScript and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html-web-components-with-vanilla-javascript-and-aspnet-core)**
 - **[.NET Tasks, List&#39;s ForEach, and Problems](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-tasks-lists-foreach-and-problems)**
 - **[How To Use Blazor Server-Rendered Components with HTMX](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-blazor-server-rendered-components-with-htmx)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Faster .NET Database Integration Tests with Respawn and xUnit](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;faster-dotnet-database-integration-tests-with-respawn-and-xunit)**
 - **[MemoizR - Declarative Structured Concurrency for C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;memoizr-declarative-structured-concurrency-for-csharp)**
 - **[Testing Typesense search with Testcontainers and .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;testing-typesense-search-with-testcontainers-and-dotnet)**
-- **[How to use Regular Expressions and Match Evaluators in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-regular-expressions-and-match-evaluators-in-dotnet)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
