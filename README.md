@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Shoelace Web Components with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;shoelace-web-components-with-aspnet-core)**
 - **[How to Map SQL Results To Any Object Using Entity Framework Core 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-map-sql-results-to-any-object-using-entity-framework-core-8)**
 - **[Increase Performance with Complex Types in Entity Framework Core 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;increase-performance-with-complex-types-in-entity-framework-core-8)**
 - **[HTML Web Components with Vanilla JavaScript and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html-web-components-with-vanilla-javascript-and-aspnet-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[View Transitions API with ASP.NET Core and HTMX](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;view-transitions-api-with-aspnet-core-and-htmx)**
 - **[How to Write a .NET Markdig Extension for Markdown Processing](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-write-a-dotnet-markdig-extension-for-markdown-processing)**
 - **[Faster .NET Database Integration Tests with Respawn and xUnit](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;faster-dotnet-database-integration-tests-with-respawn-and-xunit)**
-- **[MemoizR - Declarative Structured Concurrency for C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;memoizr-declarative-structured-concurrency-for-csharp)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
