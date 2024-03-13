@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[How to use No-Class Frameworks to Move Fast in Style](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-no-class-frameworks-to-move-fast-in-style)**
 - **[How to Integrate HTMX and Shoelace Web Components](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-integrate-htmx-and-shoelace-web-components)**
 - **[Shoelace Web Components with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;shoelace-web-components-with-aspnet-core)**
 - **[How to Map SQL Results To Any Object Using Entity Framework Core 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-map-sql-results-to-any-object-using-entity-framework-core-8)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[How To Use Blazor Server-Rendered Components with HTMX](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-blazor-server-rendered-components-with-htmx)**
 - **[How to use IAsyncEnumerable with Blazor Stream Rendering](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-iasyncenumerable-with-blazor-stream-rendering)**
 - **[View Transitions API with ASP.NET Core and HTMX](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;view-transitions-api-with-aspnet-core-and-htmx)**
-- **[How to Write a .NET Markdig Extension for Markdown Processing](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-write-a-dotnet-markdig-extension-for-markdown-processing)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
