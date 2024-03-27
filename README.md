@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[How To SSR Web Components In ASP.NET Core using TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-ssr-web-components-in-aspnet-core-using-taghelpers)**
 - **[Blazor&#39;s CSS isolation ::deep issue and solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazors-css-isolation-deep-issue-and-solution)**
 - **[How to use No-Class Frameworks to Move Fast in Style](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-no-class-frameworks-to-move-fast-in-style)**
 - **[How to Integrate HTMX and Shoelace Web Components](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-integrate-htmx-and-shoelace-web-components)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[HTML Web Components with Vanilla JavaScript and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html-web-components-with-vanilla-javascript-and-aspnet-core)**
 - **[.NET Tasks, List&#39;s ForEach, and Problems](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dotnet-tasks-lists-foreach-and-problems)**
 - **[How To Use Blazor Server-Rendered Components with HTMX](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-blazor-server-rendered-components-with-htmx)**
-- **[How to use IAsyncEnumerable with Blazor Stream Rendering](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-iasyncenumerable-with-blazor-stream-rendering)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
