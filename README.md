@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Event Queues and Buffering Functions with JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;event-queues-and-buffering-functions-with-javascript)**
 - **[Output CSV Results to Console Table in Rust](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;output-csv-results-to-console-table-in-rust)**
 - **[Responsive Images Crash Course for ASP.NET Core Developers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;responsive-images-crash-course-for-aspnet-core-developers)**
 - **[How To SSR Web Components In ASP.NET Core using TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-ssr-web-components-in-aspnet-core-using-taghelpers)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Shoelace Web Components with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;shoelace-web-components-with-aspnet-core)**
 - **[How to Map SQL Results To Any Object Using Entity Framework Core 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-map-sql-results-to-any-object-using-entity-framework-core-8)**
 - **[Increase Performance with Complex Types in Entity Framework Core 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;increase-performance-with-complex-types-in-entity-framework-core-8)**
-- **[HTML Web Components with Vanilla JavaScript and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html-web-components-with-vanilla-javascript-and-aspnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
