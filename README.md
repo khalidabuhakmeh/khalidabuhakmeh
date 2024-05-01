@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Working with Rust Libraries from C# .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-rust-libraries-from-csharp-dotnet-applications)**
 - **[Fix Unable To Resolve DbContextOptions For EF Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-unable-to-resolve-dbcontextoptions-for-ef-core)**
 - **[Event Queues and Buffering Functions with JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;event-queues-and-buffering-functions-with-javascript)**
 - **[Output CSV Results to Console Table in Rust](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;output-csv-results-to-console-table-in-rust)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[How to use No-Class Frameworks to Move Fast in Style](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-no-class-frameworks-to-move-fast-in-style)**
 - **[How to Integrate HTMX and Shoelace Web Components](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-integrate-htmx-and-shoelace-web-components)**
 - **[Shoelace Web Components with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;shoelace-web-components-with-aspnet-core)**
-- **[How to Map SQL Results To Any Object Using Entity Framework Core 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-map-sql-results-to-any-object-using-entity-framework-core-8)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
