@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[ASP.NET Core, SSR Web Components, and Enhance Wasm](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-ssr-web-components-and-enhance-wasm)**
 - **[How to add HTTP headers to Blazor Components with RazorComponentResult](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-http-headers-to-blazor-components-with-razorcomponentresult)**
 - **[Working with Rust Libraries from C# .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-rust-libraries-from-csharp-dotnet-applications)**
 - **[Fix Unable To Resolve DbContextOptions For EF Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-unable-to-resolve-dbcontextoptions-for-ef-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[How To SSR Web Components In ASP.NET Core using TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-ssr-web-components-in-aspnet-core-using-taghelpers)**
 - **[Blazor&#39;s CSS isolation ::deep issue and solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazors-css-isolation-deep-issue-and-solution)**
 - **[How to use No-Class Frameworks to Move Fast in Style](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-use-no-class-frameworks-to-move-fast-in-style)**
-- **[How to Integrate HTMX and Shoelace Web Components](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-integrate-htmx-and-shoelace-web-components)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
