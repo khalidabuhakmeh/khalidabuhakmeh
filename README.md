@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Blazor HTML Forms, Submitting, and Antiforgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-html-forms-submitting-and-antiforgery-tokens)**
 - **[Fix Missing OpenAPI Elements From ASP.NET Core Minimal API Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-missing-openapi-elements-from-aspnet-core-minimal-api-apps)**
 - **[ASP.NET Core, SSR Web Components, and Enhance Wasm](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-ssr-web-components-and-enhance-wasm)**
 - **[How to add HTTP headers to Blazor Components with RazorComponentResult](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-http-headers-to-blazor-components-with-razorcomponentresult)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Output CSV Results to Console Table in Rust](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;output-csv-results-to-console-table-in-rust)**
 - **[Responsive Images Crash Course for ASP.NET Core Developers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;responsive-images-crash-course-for-aspnet-core-developers)**
 - **[How To SSR Web Components In ASP.NET Core using TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-ssr-web-components-in-aspnet-core-using-taghelpers)**
-- **[Blazor&#39;s CSS isolation ::deep issue and solution](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazors-css-isolation-deep-issue-and-solution)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
