@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[How To Encrypt ASP.NET Core Route Parameters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-encrypt-aspnet-core-route-parameters)**
 - **[State Machines, Light Switches, and Space Travel with Stateless and .NET 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;state-machines-light-switches-and-space-travel-with-stateless-and-dotnet-8)**
 - **[Blazor HTML Forms, Submitting, and Antiforgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-html-forms-submitting-and-antiforgery-tokens)**
 - **[Fix Missing OpenAPI Elements From ASP.NET Core Minimal API Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-missing-openapi-elements-from-aspnet-core-minimal-api-apps)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Fix Unable To Resolve DbContextOptions For EF Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-unable-to-resolve-dbcontextoptions-for-ef-core)**
 - **[Event Queues and Buffering Functions with JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;event-queues-and-buffering-functions-with-javascript)**
 - **[Output CSV Results to Console Table in Rust](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;output-csv-results-to-console-table-in-rust)**
-- **[Responsive Images Crash Course for ASP.NET Core Developers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;responsive-images-crash-course-for-aspnet-core-developers)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
