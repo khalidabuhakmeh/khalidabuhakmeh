@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[HTML5 Validation for ASP.NET Core Models and Razor Views](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html5-validation-for-aspnet-core-models-and-razor-views)**
 - **[What is HSTS and why is it in my ASP.NET Core app?](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-is-hsts-and-why-is-it-in-my-aspnet-core-app)**
 - **[How To Encrypt ASP.NET Core Route Parameters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-encrypt-aspnet-core-route-parameters)**
 - **[State Machines, Light Switches, and Space Travel with Stateless and .NET 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;state-machines-light-switches-and-space-travel-with-stateless-and-dotnet-8)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[How to add HTTP headers to Blazor Components with RazorComponentResult](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-http-headers-to-blazor-components-with-razorcomponentresult)**
 - **[Working with Rust Libraries from C# .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-rust-libraries-from-csharp-dotnet-applications)**
 - **[Fix Unable To Resolve DbContextOptions For EF Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-unable-to-resolve-dbcontextoptions-for-ef-core)**
-- **[Event Queues and Buffering Functions with JavaScript](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;event-queues-and-buffering-functions-with-javascript)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
