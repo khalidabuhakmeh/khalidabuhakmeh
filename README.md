@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[HTML Datalist for ASP.NET Core Inputs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html-datalist-for-aspnet-core-inputs)**
 - **[HTML Range Inputs with ASP.NET Core TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html-range-inputs-with-aspnet-core-taghelpers)**
 - **[HTML5 Validation for ASP.NET Core Models and Razor Views](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html5-validation-for-aspnet-core-models-and-razor-views)**
 - **[What is HSTS and why is it in my ASP.NET Core app?](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-is-hsts-and-why-is-it-in-my-aspnet-core-app)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Fix Missing OpenAPI Elements From ASP.NET Core Minimal API Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-missing-openapi-elements-from-aspnet-core-minimal-api-apps)**
 - **[ASP.NET Core, SSR Web Components, and Enhance Wasm](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-ssr-web-components-and-enhance-wasm)**
 - **[How to add HTTP headers to Blazor Components with RazorComponentResult](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-add-http-headers-to-blazor-components-with-razorcomponentresult)**
-- **[Working with Rust Libraries from C# .NET Applications](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;working-with-rust-libraries-from-csharp-dotnet-applications)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
