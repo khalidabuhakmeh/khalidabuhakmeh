@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Add a Property to the Top-level Statements Program class](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-a-property-to-the-top-level-statements-program-class)**
 - **[Fix .NET MAUI MissingEntitlement and Provisioning Profiles Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-maui-missingentitlement-and-provisioning-profiles-issues)**
 - **[Health Checks for ASP.NET Core and Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;health-checks-for-aspnet-core-and-entity-framework-core)**
 - **[How To Fix .NET Nullability Warnings For Guarded Members](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-fix-dotnet-nullability-warnings-for-guarded-members)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[What is HSTS and why is it in my ASP.NET Core app?](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-is-hsts-and-why-is-it-in-my-aspnet-core-app)**
 - **[How To Encrypt ASP.NET Core Route Parameters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-encrypt-aspnet-core-route-parameters)**
 - **[State Machines, Light Switches, and Space Travel with Stateless and .NET 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;state-machines-light-switches-and-space-travel-with-stateless-and-dotnet-8)**
-- **[Blazor HTML Forms, Submitting, and Antiforgery Tokens](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;blazor-html-forms-submitting-and-antiforgery-tokens)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
