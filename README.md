@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[How To Pick The Right Constructor When Using ActivatorUtilities In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-pick-the-right-constructor-when-using-activatorutilities-in-dotnet)**
 - **[Add a Property to the Top-level Statements Program class](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-a-property-to-the-top-level-statements-program-class)**
 - **[Fix .NET MAUI MissingEntitlement and Provisioning Profiles Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-maui-missingentitlement-and-provisioning-profiles-issues)**
 - **[Health Checks for ASP.NET Core and Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;health-checks-for-aspnet-core-and-entity-framework-core)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[HTML5 Validation for ASP.NET Core Models and Razor Views](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html5-validation-for-aspnet-core-models-and-razor-views)**
 - **[What is HSTS and why is it in my ASP.NET Core app?](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;what-is-hsts-and-why-is-it-in-my-aspnet-core-app)**
 - **[How To Encrypt ASP.NET Core Route Parameters](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-encrypt-aspnet-core-route-parameters)**
-- **[State Machines, Light Switches, and Space Travel with Stateless and .NET 8](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;state-machines-light-switches-and-space-travel-with-stateless-and-dotnet-8)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
