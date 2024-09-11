@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Intersperse Values for Enumerable Collections](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;intersperse-values-for-enumerable-collections)**
 - **[Checked and Unchecked Arithmetic Operations in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;checked-and-unchecked-arithmetic-operations-in-dotnet)**
 - **[Confirmation Dialogs with Htmx and SweetAlert](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;confirmation-dialogs-with-htmx-and-sweetalert)**
 - **[How To Pick The Right Constructor When Using ActivatorUtilities In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-pick-the-right-constructor-when-using-activatorutilities-in-dotnet)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[How To Fix .NET Nullability Warnings For Guarded Members](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-fix-dotnet-nullability-warnings-for-guarded-members)**
 - **[HTML Datalist for ASP.NET Core Inputs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html-datalist-for-aspnet-core-inputs)**
 - **[HTML Range Inputs with ASP.NET Core TagHelpers](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html-range-inputs-with-aspnet-core-taghelpers)**
-- **[HTML5 Validation for ASP.NET Core Models and Razor Views](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html5-validation-for-aspnet-core-models-and-razor-views)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
