@@ -50,7 +50,9 @@ Some of my favorite posts include:
 
 ![office hours](https://res.cloudinary.com/abuhakmeh/image/fetch/c_limit,f_auto,q_auto,w_1200/https://khalidabuhakmeh.com/assets/images/posts/misc/office_hours.jpg)
 
-As a developer advocate, I'm here to help by offering [Office Hours](https://khalidabuhakmeh.com/office-hours/). These are anywhere from 30-60 minute sessions where we can discuss tech, problem solving, or general career advice. I've held every position from junior developer to director of software development.
+As a developer advocate, I'm here to help by offering Office Hours. These are 30 to 60-minute sessions where we can discuss tech, problem-solving, or general career advice. I've held every position from junior developer to director of software development. 
+
+Reach out to me on Khalid Abuhakmeh ([@khalidbuhakmeh][mastodon] on Mastodon).
 
 ### 🗃 OSS
 
@@ -67,7 +69,7 @@ I have also contributed logos to multiple .NET ecosystem projects like [Marten](
 
 Fun Facts: 
 
-- My wife, [Nicole](https://twitter.com/nicoleabuhakmeh) and I love traveling.
+- My wife, Nicole, and I love traveling.
 - I'm currently trying to learn Japanese. おはようございます。(Good Morning!).
 - I have two dogs named Samson and Guinness
 - I have **[KhalidForAmerica.com](https://khalidforamerica.com)** which points to my blog, and other domains.
