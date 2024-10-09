@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Add EF Core Migrations to .NET Aspire Solutions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-ef-core-migrations-to-dotnet-aspire-solutions)**
 - **[Htmx and Playwright Tests in C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-and-playwright-tests-in-csharp)**
 - **[Intersperse Values for Enumerable Collections](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;intersperse-values-for-enumerable-collections)**
 - **[Checked and Unchecked Arithmetic Operations in .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;checked-and-unchecked-arithmetic-operations-in-dotnet)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Fix .NET MAUI MissingEntitlement and Provisioning Profiles Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-maui-missingentitlement-and-provisioning-profiles-issues)**
 - **[Health Checks for ASP.NET Core and Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;health-checks-for-aspnet-core-and-entity-framework-core)**
 - **[How To Fix .NET Nullability Warnings For Guarded Members](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-fix-dotnet-nullability-warnings-for-guarded-members)**
-- **[HTML Datalist for ASP.NET Core Inputs](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;html-datalist-for-aspnet-core-inputs)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
