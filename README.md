@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Update HTML Elements with Htmx Triggers and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;update-html-elements-with-htmx-triggers-and-aspnet-core)**
 - **[Add EF Core Migrations to .NET Aspire Solutions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-ef-core-migrations-to-dotnet-aspire-solutions)**
 - **[Htmx and Playwright Tests in C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-and-playwright-tests-in-csharp)**
 - **[Intersperse Values for Enumerable Collections](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;intersperse-values-for-enumerable-collections)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Add a Property to the Top-level Statements Program class](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-a-property-to-the-top-level-statements-program-class)**
 - **[Fix .NET MAUI MissingEntitlement and Provisioning Profiles Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-maui-missingentitlement-and-provisioning-profiles-issues)**
 - **[Health Checks for ASP.NET Core and Entity Framework Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;health-checks-for-aspnet-core-and-entity-framework-core)**
-- **[How To Fix .NET Nullability Warnings For Guarded Members](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-fix-dotnet-nullability-warnings-for-guarded-members)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
