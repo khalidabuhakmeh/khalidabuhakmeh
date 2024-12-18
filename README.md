@@ -34,6 +34,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Building a Persistent Counter with Alpine.Js](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;building-a-persistent-counter-with-alpinejs)**
 - **[Dynamic Htmx Islands with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dynamic-htmx-islands-with-aspnet-core)**
 - **[Update HTML Elements with Htmx Triggers and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;update-html-elements-with-htmx-triggers-and-aspnet-core)**
 - **[Add EF Core Migrations to .NET Aspire Solutions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-ef-core-migrations-to-dotnet-aspire-solutions)**
@@ -43,7 +44,6 @@ Some of my favorite posts include:
 - **[Confirmation Dialogs with Htmx and SweetAlert](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;confirmation-dialogs-with-htmx-and-sweetalert)**
 - **[How To Pick The Right Constructor When Using ActivatorUtilities In .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;how-to-pick-the-right-constructor-when-using-activatorutilities-in-dotnet)**
 - **[Add a Property to the Top-level Statements Program class](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-a-property-to-the-top-level-statements-program-class)**
-- **[Fix .NET MAUI MissingEntitlement and Provisioning Profiles Issues](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;fix-dotnet-maui-missingentitlement-and-provisioning-profiles-issues)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
