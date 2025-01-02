@@ -11,18 +11,13 @@
     <a rel="nofollow me" href="https://mastodon.social/@khalidabuhakmeh" style="display: inline-block; margin: auto; width: 250px;">
       <img src="https://user-images.githubusercontent.com/228256/202323215-d24ac2ad-9496-4bd8-ad40-6cff32fc4867.png" alt="Mastodon @khalidbuhakmeh@mastodon.social" width="32%" />
     </a>
-    <a href="https://blog.jetbrains.com/dotnet" style="display: inline-block; margin: auto; width: 250px;">
-      <img src="https://user-images.githubusercontent.com/228256/87049854-742f4c00-c1cb-11ea-891f-daea7cf57573.png" alt="jetbrains .NET Blog" width="32%" />
-    </a>    
 </div>
 
 <hr/>
 
 ### Hi there 👋
 
-My name is Khalid Abuhakmeh ([@khalidbuhakmeh][mastodon] on Mastodon). These days I'm a developer advocate at [JetBrains][jetbrains] primarily focusing on [.NET][dotnet] technologies using tools like [Rider][rider] and [ReSharper][resharper]. I also create content for JetBrains at the [official blog][jb_blog].
-
-I'm also proud of my personal blog at [khalidabuhakmeh.com][blog], where I write mostly about .NET. My posts focus on learning in the open and try to help readers solve problems or grasp ideas. I'm on a tech journey and I hope you come along with me on the ride.
+My name is Khalid Abuhakmeh ([@khalidbuhakmeh][mastodon] on Mastodon). I'm proud of my personal blog at [khalidabuhakmeh.com][blog], where I write mostly about .NET. My posts focus on learning in the open and try to help readers solve problems or grasp ideas. I'm on a tech journey and I hope you come along with me on the ride.
 
 Some of my favorite posts include:
 
@@ -77,12 +72,7 @@ Fun Facts:
 
 If you would like to reach me, the best way is on Mastodon via <a rel="me" href="https://mastodon.social/@khalidabuhakmeh">@khalidabuhakmeh</a>.
 
-[twitter]: https://twitter.com/buhakmeh
-[jetbrains]: https://jetbrains.com
-[rider]: https://jetbrains.com/rider
-[resharper]: https://jetbrains.com/resharper
-[blog]: https://khalidabuhakmeh.com
-[jb_blog]: https://blog.jetbrains.com/dotnet                                                                            
+[blog]: https://khalidabuhakmeh.com                                                                    
 [mastodon]: https://mastodon.social/@khalidabuhakmeh
 [dotnet]: https://dot.net
 
