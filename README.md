@@ -29,6 +29,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[ASP.NET Core and Chunking HTTP Cookies](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-and-chunking-http-cookies)**
 - **[Vogen and Value Objects with C# and .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;vogen-and-value-objects-with-csharp-and-dotnet)**
 - **[Initialize ASP.NET Core TagHelpers with Shared Data](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;initialize-aspnet-core-taghelpers-with-shared-data)**
 - **[Writing a String Numeric Comparer with .NET 9](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;writing-a-string-numeric-comparer-with-dotnet-9)**
@@ -38,7 +39,6 @@ Some of my favorite posts include:
 - **[Dynamic Htmx Islands with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dynamic-htmx-islands-with-aspnet-core)**
 - **[Update HTML Elements with Htmx Triggers and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;update-html-elements-with-htmx-triggers-and-aspnet-core)**
 - **[Add EF Core Migrations to .NET Aspire Solutions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-ef-core-migrations-to-dotnet-aspire-solutions)**
-- **[Htmx and Playwright Tests in C#](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;htmx-and-playwright-tests-in-csharp)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
