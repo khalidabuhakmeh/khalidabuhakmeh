@@ -29,6 +29,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[The Curious Case of .NET ConcurrentDictionary and Closures](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-curious-case-of-dotnet-concurrentdictionary-and-closures)**
 - **[ASP.NET Core and Chunking HTTP Cookies](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-and-chunking-http-cookies)**
 - **[Vogen and Value Objects with C# and .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;vogen-and-value-objects-with-csharp-and-dotnet)**
 - **[Initialize ASP.NET Core TagHelpers with Shared Data](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;initialize-aspnet-core-taghelpers-with-shared-data)**
@@ -38,7 +39,6 @@ Some of my favorite posts include:
 - **[Building a Persistent Counter with Alpine.Js](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;building-a-persistent-counter-with-alpinejs)**
 - **[Dynamic Htmx Islands with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dynamic-htmx-islands-with-aspnet-core)**
 - **[Update HTML Elements with Htmx Triggers and ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;update-html-elements-with-htmx-triggers-and-aspnet-core)**
-- **[Add EF Core Migrations to .NET Aspire Solutions](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;add-ef-core-migrations-to-dotnet-aspire-solutions)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
