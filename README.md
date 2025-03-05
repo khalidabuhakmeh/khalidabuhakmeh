@@ -29,6 +29,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Generic C# Methods with Enum Constraints for .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generic-csharp-methods-with-enum-constraints-for-dotnet)**
 - **[Strongly-Typed Markdown for ASP.NET Core Content Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;strongly-typed-markdown-for-aspnet-core-content-apps)**
 - **[The Curious Case of .NET ConcurrentDictionary and Closures](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-curious-case-of-dotnet-concurrentdictionary-and-closures)**
 - **[ASP.NET Core and Chunking HTTP Cookies](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;aspnet-core-and-chunking-http-cookies)**
@@ -38,7 +39,6 @@ Some of my favorite posts include:
 - **[Great .NET Documentation with Astro, Starlight, and MarkdownSnippets](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;great-dotnet-documentation-with-astro-starlight-and-markdownsnippets)**
 - **[Alpine.Js Polling ASP.NET Core APIs For Updates](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;alpinejs-polling-aspnet-core-apis-for-updates)**
 - **[Building a Persistent Counter with Alpine.Js](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;building-a-persistent-counter-with-alpinejs)**
-- **[Dynamic Htmx Islands with ASP.NET Core](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;dynamic-htmx-islands-with-aspnet-core)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
