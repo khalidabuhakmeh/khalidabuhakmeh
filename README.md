@@ -29,6 +29,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Server-Sent Events in ASP.NET Core and .NET 10](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;server-sent-events-in-aspnet-core-and-dotnet-10)**
 - **[Generic C# Methods with Enum Constraints for .NET](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;generic-csharp-methods-with-enum-constraints-for-dotnet)**
 - **[Strongly-Typed Markdown for ASP.NET Core Content Apps](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;strongly-typed-markdown-for-aspnet-core-content-apps)**
 - **[The Curious Case of .NET ConcurrentDictionary and Closures](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;the-curious-case-of-dotnet-concurrentdictionary-and-closures)**
@@ -38,7 +39,6 @@ Some of my favorite posts include:
 - **[Writing a String Numeric Comparer with .NET 9](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;writing-a-string-numeric-comparer-with-dotnet-9)**
 - **[Great .NET Documentation with Astro, Starlight, and MarkdownSnippets](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;great-dotnet-documentation-with-astro-starlight-and-markdownsnippets)**
 - **[Alpine.Js Polling ASP.NET Core APIs For Updates](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;alpinejs-polling-aspnet-core-apis-for-updates)**
-- **[Building a Persistent Counter with Alpine.Js](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;building-a-persistent-counter-with-alpinejs)**
 <!--END_SECTION:feed-->
 
 ### Office Hours ⏱
