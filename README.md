@@ -41,22 +41,13 @@ Some of my favorite posts include:
 - **[Alpine.Js Polling ASP.NET Core APIs For Updates](https:&#x2F;&#x2F;khalidabuhakmeh.com&#x2F;alpinejs-polling-aspnet-core-apis-for-updates)**
 <!--END_SECTION:feed-->
 
-### Office Hours ⏱
-
-![office hours](https://res.cloudinary.com/abuhakmeh/image/fetch/c_limit,f_auto,q_auto,w_1200/https://khalidabuhakmeh.com/assets/images/posts/misc/office_hours.jpg)
-
-As a developer advocate, I'm here to help by offering Office Hours. These are 30 to 60-minute sessions where we can discuss tech, problem-solving, or general career advice. I've held every position from junior developer to director of software development. 
-
-Reach out to me on Khalid Abuhakmeh ([@khalidbuhakmeh][mastodon] on Mastodon).
-
 ### 🗃 OSS
 
 I also [do OSS](https://www.nuget.org/profiles/khalidabuhakmeh) when the time allows. Some of my most popular NuGet packages include:
 
+- [Htmx.NET](https://github.com/khalidabuhakmeh/htmx.net)
 - [ConsoleTables](https://github.com/khalidabuhakmeh/consoletables)
 - [Codez](https://github.com/khalidabuhakmeh/codez)
-
-That's over **1.2 Million downloads!**
 
 I have also contributed logos to multiple .NET ecosystem projects like [Marten](https://github.com/JasperFx/marten), [DDay.iCal](https://github.com/rianjs/ical.net), and [Buildalyzer](https://github.com/daveaglick/Buildalyzer).
 
