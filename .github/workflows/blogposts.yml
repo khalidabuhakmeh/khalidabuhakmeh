@@ -8,10 +8,12 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: JasonEtco/rss-to-readme@v2
         with:
-          feed-url: https://khalidabuhakmeh.com/feed.xml
+          feed-url: https://khalidabuhakmeh.com/rss.xml
           readme-section: feed
           max: 10 # max number of items (default 5)
-          template: "- **[{{ title }}]({{ link }})**\n"
+          template: "- **[{{ title }}]({{{ link }}})**\n"
