@@ -29,16 +29,16 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
-- **[A .NET 5.0 Guide: From Idea To NuGet Package](https://khalidabuhakmeh.com/posts/a-dotnet-five-guide-from-idea-to-nuget-package/)**
-- **[A Software Developer's Guide: Moving To Windows From macOS](https://khalidabuhakmeh.com/posts/a-software-developers-guide-moving-to-windows-from-macos/)**
-- **[Access Background Services From ASP.NET Core](https://khalidabuhakmeh.com/posts/access-background-services-from-aspnet-core/)**
-- **[Add a Property to the Top-level Statements Program class](https://khalidabuhakmeh.com/posts/add-a-property-to-the-top-level-statements-program-class/)**
-- **[Add Custom Database Functions For Entity Framework Core](https://khalidabuhakmeh.com/posts/add-custom-database-functions-for-entity-framework-core/)**
-- **[Add EF Core Migrations to .NET Aspire Solutions](https://khalidabuhakmeh.com/posts/add-ef-core-migrations-to-dotnet-aspire-solutions/)**
-- **[Add Headers To A Response In ASP.NET 5](https://khalidabuhakmeh.com/posts/add-headers-to-a-response-in-aspnet-5/)**
-- **[Add MS SQL Server JSON Support To Entity Framework Core](https://khalidabuhakmeh.com/posts/add-ms-sql-server-json-support-to-entity-framework-core/)**
-- **[Add Svelte To ASP.NET Core Projects](https://khalidabuhakmeh.com/posts/add-svelte-to-aspnet-core-projects/)**
-- **[Adding a Readme to NuGet Package Landing Pages](https://khalidabuhakmeh.com/posts/adding-a-readme-to-nuget-package-landing-pages/)**
+- **[Server-Sent Events in ASP.NET Core and .NET 10](https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/)**
+- **[Generic C# Methods with Enum Constraints for .NET](https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/)**
+- **[Strongly-Typed Markdown for ASP.NET Core Content Apps](https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/)**
+- **[The Curious Case of .NET ConcurrentDictionary and Closures](https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/)**
+- **[ASP.NET Core and Chunking HTTP Cookies](https://khalidabuhakmeh.com/posts/aspnet-core-and-chunking-http-cookies/)**
+- **[Vogen and Value Objects with C# and .NET](https://khalidabuhakmeh.com/posts/vogen-and-value-objects-with-csharp-and-dotnet/)**
+- **[Initialize ASP.NET Core TagHelpers with Shared Data](https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/)**
+- **[Writing a String Numeric Comparer with .NET 9](https://khalidabuhakmeh.com/posts/writing-a-string-numeric-comparer-with-dotnet-9/)**
+- **[Great .NET Documentation with Astro, Starlight, and MarkdownSnippets](https://khalidabuhakmeh.com/posts/great-dotnet-documentation-with-astro-starlight-and-markdownsnippets/)**
+- **[Alpine.Js Polling ASP.NET Core APIs For Updates](https://khalidabuhakmeh.com/posts/alpinejs-polling-aspnet-core-apis-for-updates/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
