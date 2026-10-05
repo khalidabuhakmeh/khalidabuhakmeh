@@ -29,6 +29,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Rails to ASP.NET Core: A Developer's Map](https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/)**
 - **[Server-Sent Events in ASP.NET Core and .NET 10](https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/)**
 - **[Generic C# Methods with Enum Constraints for .NET](https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/)**
 - **[Strongly-Typed Markdown for ASP.NET Core Content Apps](https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/)**
@@ -38,7 +39,6 @@ Some of my favorite posts include:
 - **[Initialize ASP.NET Core TagHelpers with Shared Data](https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/)**
 - **[Writing a String Numeric Comparer with .NET 9](https://khalidabuhakmeh.com/posts/writing-a-string-numeric-comparer-with-dotnet-9/)**
 - **[Great .NET Documentation with Astro, Starlight, and MarkdownSnippets](https://khalidabuhakmeh.com/posts/great-dotnet-documentation-with-astro-starlight-and-markdownsnippets/)**
-- **[Alpine.Js Polling ASP.NET Core APIs For Updates](https://khalidabuhakmeh.com/posts/alpinejs-polling-aspnet-core-apis-for-updates/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
