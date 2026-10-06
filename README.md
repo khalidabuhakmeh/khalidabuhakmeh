@@ -29,6 +29,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Convert a String to an Int in C#](https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/)**
 - **[Rails to ASP.NET Core: A Developer's Map](https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/)**
 - **[Server-Sent Events in ASP.NET Core and .NET 10](https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/)**
 - **[Generic C# Methods with Enum Constraints for .NET](https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/)**
@@ -38,7 +39,6 @@ Some of my favorite posts include:
 - **[Vogen and Value Objects with C# and .NET](https://khalidabuhakmeh.com/posts/vogen-and-value-objects-with-csharp-and-dotnet/)**
 - **[Initialize ASP.NET Core TagHelpers with Shared Data](https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/)**
 - **[Writing a String Numeric Comparer with .NET 9](https://khalidabuhakmeh.com/posts/writing-a-string-numeric-comparer-with-dotnet-9/)**
-- **[Great .NET Documentation with Astro, Starlight, and MarkdownSnippets](https://khalidabuhakmeh.com/posts/great-dotnet-documentation-with-astro-starlight-and-markdownsnippets/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
