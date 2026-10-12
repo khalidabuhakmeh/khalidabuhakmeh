@@ -29,16 +29,16 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[C# 15 Union Types: Build Serializable Workflows](https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/)**
+- **[Directory.Build.props: Share Settings Across .NET Projects](https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/)**
 - **[Convert a String to an Int in C#](https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/)**
 - **[Rails to ASP.NET Core: A Developer's Map](https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/)**
 - **[Server-Sent Events in ASP.NET Core and .NET 10](https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/)**
 - **[Generic C# Methods with Enum Constraints for .NET](https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/)**
 - **[Strongly-Typed Markdown for ASP.NET Core Content Apps](https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/)**
-- **[The Curious Case of .NET ConcurrentDictionary and Closures](https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/)**
+- **[ConcurrentDictionary GetOrAdd and Closures in .NET](https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/)**
 - **[ASP.NET Core and Chunking HTTP Cookies](https://khalidabuhakmeh.com/posts/aspnet-core-and-chunking-http-cookies/)**
 - **[Vogen and Value Objects with C# and .NET](https://khalidabuhakmeh.com/posts/vogen-and-value-objects-with-csharp-and-dotnet/)**
-- **[Initialize ASP.NET Core TagHelpers with Shared Data](https://khalidabuhakmeh.com/posts/initialize-aspnet-core-taghelpers-with-shared-data/)**
-- **[Writing a String Numeric Comparer with .NET 9](https://khalidabuhakmeh.com/posts/writing-a-string-numeric-comparer-with-dotnet-9/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
