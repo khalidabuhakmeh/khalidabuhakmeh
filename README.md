@@ -29,6 +29,8 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Collection Expression Arguments Fix the Comparer Problem in C# 15](https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/)**
+- **[Swap System.Text.Json for REDox in a Minimal API](https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/)**
 - **[C# 15 Union Types: Build Serializable Workflows](https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/)**
 - **[Directory.Build.props: Share Settings Across .NET Projects](https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/)**
 - **[Convert a String to an Int in C#](https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/)**
@@ -37,8 +39,6 @@ Some of my favorite posts include:
 - **[Generic C# Methods with Enum Constraints for .NET](https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/)**
 - **[Strongly-Typed Markdown for ASP.NET Core Content Apps](https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/)**
 - **[ConcurrentDictionary GetOrAdd and Closures in .NET](https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/)**
-- **[ASP.NET Core and Chunking HTTP Cookies](https://khalidabuhakmeh.com/posts/aspnet-core-and-chunking-http-cookies/)**
-- **[Vogen and Value Objects with C# and .NET](https://khalidabuhakmeh.com/posts/vogen-and-value-objects-with-csharp-and-dotnet/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
