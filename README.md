@@ -29,6 +29,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Localize Minimal API Validation Messages in .NET 11](https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/)**
 - **[Collection Expression Arguments Fix the Comparer Problem in C# 15](https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/)**
 - **[Swap System.Text.Json for REDox in a Minimal API](https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/)**
 - **[C# 15 Union Types: Build Serializable Workflows](https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/)**
@@ -38,7 +39,6 @@ Some of my favorite posts include:
 - **[Server-Sent Events in ASP.NET Core and .NET 10](https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/)**
 - **[Generic C# Methods with Enum Constraints for .NET](https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/)**
 - **[Strongly-Typed Markdown for ASP.NET Core Content Apps](https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/)**
-- **[ConcurrentDictionary GetOrAdd and Closures in .NET](https://khalidabuhakmeh.com/posts/the-curious-case-of-dotnet-concurrentdictionary-and-closures/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
