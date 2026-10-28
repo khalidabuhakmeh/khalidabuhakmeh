@@ -29,6 +29,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[How to Loop Through a List in C#: Every Way, Benchmarked](https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/)**
 - **[Localize Minimal API Validation Messages in .NET 11](https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/)**
 - **[Collection Expression Arguments Fix the Comparer Problem in C# 15](https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/)**
 - **[Swap System.Text.Json for REDox in a Minimal API](https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/)**
@@ -38,7 +39,6 @@ Some of my favorite posts include:
 - **[Rails to ASP.NET Core: A Developer's Map](https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/)**
 - **[Server-Sent Events in ASP.NET Core and .NET 10](https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/)**
 - **[Generic C# Methods with Enum Constraints for .NET](https://khalidabuhakmeh.com/posts/generic-csharp-methods-with-enum-constraints-for-dotnet/)**
-- **[Strongly-Typed Markdown for ASP.NET Core Content Apps](https://khalidabuhakmeh.com/posts/strongly-typed-markdown-for-aspnet-core-content-apps/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
