@@ -1,15 +1,8 @@
-<a href="https://khalidabuhakmeh.com">
-  <img width="100%" src="./assets/header.png" alt="Khalid Abuhakmeh — Learning .NET in the open. khalidabuhakmeh.com" />
-</a>
+<a href="https://khalidabuhakmeh.com"><img width="100%" src="./assets/header.png" alt="Khalid Abuhakmeh — Learning .NET in the open. khalidabuhakmeh.com" /></a>
 
 <p align="center">
-  <a href="https://khalidabuhakmeh.com">
-    <img src="./assets/button-blog.png" alt="Read the blog at khalidabuhakmeh.com" width="40%" />
-  </a>
-  &nbsp;
-  <a rel="nofollow me" href="https://mastodon.social/@khalidabuhakmeh">
-    <img src="./assets/button-mastodon.png" alt="Mastodon @khalidabuhakmeh@mastodon.social" width="40%" />
-  </a>
+  <a href="https://khalidabuhakmeh.com"><img src="./assets/button-blog.png" alt="Read the blog at khalidabuhakmeh.com" width="40%" /></a>
+  <a rel="nofollow me" href="https://mastodon.social/@khalidabuhakmeh"><img src="./assets/button-mastodon.png" alt="Mastodon @khalidabuhakmeh@mastodon.social" width="40%" /></a>
 </p>
 
 ### Hi there 👋
