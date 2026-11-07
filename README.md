@@ -1,19 +1,16 @@
 <a href="https://khalidabuhakmeh.com">
-  <img width="100%" src="https://khalidabuhakmeh.com/assets/images/posts/logos/vhs-logo.png" alt="abuhakmeh logo" />
+  <img width="100%" src="./assets/header.png" alt="Khalid Abuhakmeh — Learning .NET in the open. khalidabuhakmeh.com" />
 </a>
 
-<hr/>
-
-<div style="width:100%; text-align:center">
-    <a href="https://khalidabuhakmeh.com" style="display: inline-block; margin: auto; width: 50px;">
-      <img src="https://user-images.githubusercontent.com/228256/87049842-71345b80-c1cb-11ea-8a67-b002bcfde0a8.png" alt="abuhakmeh blog" width="32%" />
-    </a>
-    <a rel="nofollow me" href="https://mastodon.social/@khalidabuhakmeh" style="display: inline-block; margin: auto; width: 250px;">
-      <img src="https://user-images.githubusercontent.com/228256/202323215-d24ac2ad-9496-4bd8-ad40-6cff32fc4867.png" alt="Mastodon @khalidbuhakmeh@mastodon.social" width="32%" />
-    </a>
-</div>
-
-<hr/>
+<p align="center">
+  <a href="https://khalidabuhakmeh.com">
+    <img src="./assets/button-blog.png" alt="Read the blog at khalidabuhakmeh.com" width="40%" />
+  </a>
+  &nbsp;
+  <a rel="nofollow me" href="https://mastodon.social/@khalidabuhakmeh">
+    <img src="./assets/button-mastodon.png" alt="Mastodon @khalidabuhakmeh@mastodon.social" width="40%" />
+  </a>
+</p>
 
 ### Hi there 👋
 
@@ -66,10 +63,6 @@ If you would like to reach me, the best way is on Mastodon via <a rel="me" href=
 [blog]: https://khalidabuhakmeh.com                                                                    
 [mastodon]: https://mastodon.social/@khalidabuhakmeh
 [dotnet]: https://dot.net
-
-<p align="center">
-  <img alt="Visitor count" src="https://profile-counter.glitch.me/khalidabuhakmeh/count.svg" style="display: inline-block; margin: auto;" />  
-</p>
 
 <!--
 **khalidabuhakmeh/khalidabuhakmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
