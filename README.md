@@ -29,6 +29,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Blazor WASM vs Server vs Hybrid: Which Render Mode Should You Use?](https://khalidabuhakmeh.com/posts/blazor-render-modes-wasm-server-hybrid/)**
 - **[GitHub Actions Cron: Skip Builds When No Posts Are Due](https://khalidabuhakmeh.com/posts/skip-scheduled-static-site-builds-github-actions/)**
 - **[How to Loop Through a List in C#: Every Way, Benchmarked](https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/)**
 - **[Localize Minimal API Validation Messages in .NET 11](https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/)**
@@ -38,7 +39,6 @@ Some of my favorite posts include:
 - **[Directory.Build.props: Share Settings Across .NET Projects](https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/)**
 - **[Convert a String to an Int in C#](https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/)**
 - **[Rails to ASP.NET Core: A Developer's Map](https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/)**
-- **[Server-Sent Events in ASP.NET Core and .NET 10](https://khalidabuhakmeh.com/posts/server-sent-events-in-aspnet-core-and-dotnet-10/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
