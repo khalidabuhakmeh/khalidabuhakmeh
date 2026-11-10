@@ -19,6 +19,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[C# Cheat Sheet: Modern Syntax Reference with Examples](https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/)**
 - **[Blazor WASM vs Server vs Hybrid: Which Render Mode to Use?](https://khalidabuhakmeh.com/posts/blazor-render-modes-wasm-server-hybrid/)**
 - **[GitHub Actions Cron: Skip Builds When No Posts Are Due](https://khalidabuhakmeh.com/posts/skip-scheduled-static-site-builds-github-actions/)**
 - **[How to Loop Through a List in C#: Every Way, Benchmarked](https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/)**
@@ -28,7 +29,6 @@ Some of my favorite posts include:
 - **[C# 15 Union Types: Build Serializable Workflows](https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/)**
 - **[Directory.Build.props: Share Settings Across .NET Projects](https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/)**
 - **[Convert a String to an Int in C#](https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/)**
-- **[Rails to ASP.NET Core: A Developer's Map](https://khalidabuhakmeh.com/posts/rails-developers-map-to-dotnet/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
