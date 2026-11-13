@@ -19,6 +19,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[Read an Excel File in C#: ExcelDataReader, ClosedXML, and No-Library OpenXML](https://khalidabuhakmeh.com/posts/csharp-read-excel-file/)**
 - **[C# Cheat Sheet: Modern Syntax Reference with Examples](https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/)**
 - **[Blazor WASM vs Server vs Hybrid: Which Render Mode to Use?](https://khalidabuhakmeh.com/posts/blazor-render-modes-wasm-server-hybrid/)**
 - **[GitHub Actions Cron: Skip Builds When No Posts Are Due](https://khalidabuhakmeh.com/posts/skip-scheduled-static-site-builds-github-actions/)**
@@ -28,7 +29,6 @@ Some of my favorite posts include:
 - **[Swap System.Text.Json for REDox in a Minimal API](https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/)**
 - **[C# 15 Union Types: Build Serializable Workflows](https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/)**
 - **[Directory.Build.props: Share Settings Across .NET Projects](https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/)**
-- **[Convert a String to an Int in C#](https://khalidabuhakmeh.com/posts/convert-a-string-to-an-int-in-csharp/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
