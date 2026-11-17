@@ -19,6 +19,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[C# try/catch: Exception Handling in C# with Examples](https://khalidabuhakmeh.com/posts/csharp-exception-handling-try-catch/)**
 - **[Read an Excel File in C#: ExcelDataReader, ClosedXML, and No-Library OpenXML](https://khalidabuhakmeh.com/posts/csharp-read-excel-file/)**
 - **[C# Cheat Sheet: Modern Syntax Reference with Examples](https://khalidabuhakmeh.com/posts/csharp-cheat-sheet/)**
 - **[Blazor WASM vs Server vs Hybrid: Which Render Mode to Use?](https://khalidabuhakmeh.com/posts/blazor-render-modes-wasm-server-hybrid/)**
@@ -28,7 +29,6 @@ Some of my favorite posts include:
 - **[Collection Expression Arguments Fix the Comparer Problem in C# 15](https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/)**
 - **[Swap System.Text.Json for REDox in a Minimal API](https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/)**
 - **[C# 15 Union Types: Build Serializable Workflows](https://khalidabuhakmeh.com/posts/csharp-15-union-workflows/)**
-- **[Directory.Build.props: Share Settings Across .NET Projects](https://khalidabuhakmeh.com/posts/directory-build-props-share-settings-across-dotnet-projects/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
