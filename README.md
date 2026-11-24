@@ -19,6 +19,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[C# Generics: A Practical Guide to Generic Classes, Methods, and Constraints](https://khalidabuhakmeh.com/posts/csharp-generics-explained/)**
 - **[C# Write to File: WriteAllText, WriteAllLines, AppendAllText, and StreamWriter](https://khalidabuhakmeh.com/posts/csharp-write-to-file/)**
 - **[C# try/catch: Exception Handling in C# with Examples](https://khalidabuhakmeh.com/posts/csharp-exception-handling-try-catch/)**
 - **[Read an Excel File in C#: ExcelDataReader, ClosedXML, and No-Library OpenXML](https://khalidabuhakmeh.com/posts/csharp-read-excel-file/)**
@@ -28,7 +29,6 @@ Some of my favorite posts include:
 - **[How to Loop Through a List in C#: Every Way, Benchmarked](https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/)**
 - **[Localize Minimal API Validation Messages in .NET 11](https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/)**
 - **[Collection Expression Arguments Fix the Comparer Problem in C# 15](https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/)**
-- **[Swap System.Text.Json for REDox in a Minimal API](https://khalidabuhakmeh.com/posts/swap-system-text-json-for-redox-minimal-api/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
