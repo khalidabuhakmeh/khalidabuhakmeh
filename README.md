@@ -19,6 +19,7 @@ Some of my favorite posts include:
 ### 📙 Blog Posts
 
 <!--START_SECTION:feed-->
+- **[C# Nullable Reference Types and #nullable enable Explained](https://khalidabuhakmeh.com/posts/csharp-nullable-reference-types/)**
 - **[C# Generics: A Practical Guide to Generic Classes, Methods, and Constraints](https://khalidabuhakmeh.com/posts/csharp-generics-explained/)**
 - **[C# Write to File: WriteAllText, WriteAllLines, AppendAllText, and StreamWriter](https://khalidabuhakmeh.com/posts/csharp-write-to-file/)**
 - **[C# try/catch: Exception Handling in C# with Examples](https://khalidabuhakmeh.com/posts/csharp-exception-handling-try-catch/)**
@@ -28,7 +29,6 @@ Some of my favorite posts include:
 - **[GitHub Actions Cron: Skip Builds When No Posts Are Due](https://khalidabuhakmeh.com/posts/skip-scheduled-static-site-builds-github-actions/)**
 - **[How to Loop Through a List in C#: Every Way, Benchmarked](https://khalidabuhakmeh.com/posts/how-to-loop-through-a-list-in-csharp/)**
 - **[Localize Minimal API Validation Messages in .NET 11](https://khalidabuhakmeh.com/posts/minimal-api-validation-localization/)**
-- **[Collection Expression Arguments Fix the Comparer Problem in C# 15](https://khalidabuhakmeh.com/posts/collection-expression-arguments-csharp-15/)**
 <!--END_SECTION:feed-->
 
 ### 🗃 OSS
